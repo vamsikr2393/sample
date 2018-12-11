@@ -1,0 +1,1380 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: bonita\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/portal-js-sp.pot\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"PO-Revision-Date: 2018-06-04 21:47-0400\n"
+
+msgid "{{membership.role_id.displayName}} of {{membership.group_id.displayName}}"
+msgstr "{{membership.group_id.displayName}} の {{membership.role_id.displayName}}"
+
+msgid "{} mapped"
+msgstr "{} がマップされました"
+
+msgid "{} mapped to process manager profile"
+msgstr "プロセス管理者プロファイルに {} がマップされました"
+
+msgid "{} mappings to delete"
+msgstr "{} のマッピングが削除されます"
+
+msgid "{} more"
+msgstr "{} 以上"
+
+msgid "{} of {}"
+msgstr "{} / {}"
+
+msgid "{}-{} of {}"
+msgstr "{}-{} / {}"
+
+msgid "<br>For a cluster, run the request key generator script manually on each node in the cluster and then request the licenses (find more information in the Licenses documentation page)."
+msgstr "<br>クラスターの場合、クラスター内の各ノードごとにリクエストキー生成スクリプトを手動で実行し、ライセンスをリクエストします（詳しい情報は、ライセンスのドキュメント ページにあります）。"
+
+msgid "<strong>{{LicenseMonitoringCtrl.license.caseCounterLimit}}</strong> cases provisioned for the period <strong>{{ LicenseMonitoringCtrl.license.subscriptionStartTimestamp| dateI18n : 'LL'}}</strong> to <strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp| dateI18n : 'LL'}}</strong>.<br>"
+msgstr ""
+
+msgid "<strong>Unlimited cases</strong>"
+msgstr ""
+
+msgid "1 h."
+msgstr "1 時間"
+
+msgid "1 min."
+msgstr "1 分"
+
+msgid "10 min."
+msgstr "10 分"
+
+msgid "30 min."
+msgstr "30 分"
+
+msgid "5 min."
+msgstr "5 分"
+
+msgid "Access control data have been successfully updated"
+msgstr ""
+
+msgid "Access control data will be permanently deleted."
+msgstr ""
+
+msgid "Access control file has been successfully deleted."
+msgstr "アクセス制御ファイルが正常に削除されました."
+
+msgid "Access control file successfully updated"
+msgstr "アクセス制御ファイルが正常に更新されました"
+
+msgid "Access control has not been updated because the format is invalid. You can edit the BDM access control file in Bonita Studio and validate it before trying again."
+msgstr "アクセス制御は、形式が正しくないために更新されていません。Bonita Studio で BDM のアクセス制御ファイルを編集し、再試行する前に検証できます。"
+
+msgid "Access control has not been updated because your session expired. Please log back in again and retry."
+msgstr "アクセス制御は、セッションの有効期限が切れたため更新されていません。再度ログインして再試行してください。"
+
+msgid "Access control has not been updated. System was not able to validate the provided BDM access control file for technical reason. You can try again later."
+msgstr "アクセス制御は更新されていません。システムでは、技術的な理由により指定された BDM のアクセス制御ファイルを検証できませんでした。後でもう一度試すことができます。"
+
+msgid "Access control has not been updated. System was not able to validate the provided BDM access control file for technical reasons. You can try again later."
+msgstr "アクセス制御は更新されていません。システムでは、技術的な理由により指定された BDM のアクセス制御ファイルを検証できませんでした。後でもう一度試すことができます。"
+
+msgid "Access control has not been uploaded. System was not able to upload the provided BDM access control file for technical reasons. You can try again later."
+msgstr "アクセス制御はアップロードされていません。システムでは、技術的な理由により指定された BDM のアクセス制御ファイルをアップロードできませんでした。後でもう一度試すことができます。"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Activation state"
+msgstr "有効化の状態"
+
+msgid "Actor name"
+msgstr "アクター名"
+
+msgid "Actors"
+msgstr "アクター"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add from custom pages"
+msgstr "カスタム ページを追加します"
+
+msgid "Add membership"
+msgstr "所属を追加"
+
+msgid "Add menu"
+msgstr "メニューを追加します"
+
+msgid "Add menu item"
+msgstr "メニュー項目を追加します"
+
+msgid "Add page"
+msgstr "ページを追加"
+
+msgid "Add pages in Navigation"
+msgstr "ナビゲーションにページを追加します"
+
+msgid "Add top-level menu"
+msgstr "最上位のメニューを追加します"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Aggregates tasks in states ready, waiting,<br>executing, completing, and initializing"
+msgstr "レディ、待機、実行、完了および初期化状態のタスクを集約"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "All done. Good job!"
+msgstr "実行すべきタスクがアサインされていません。"
+
+msgid "an application"
+msgstr "アプリケーション"
+
+msgid "an Application"
+msgstr "アプリケーション"
+
+msgid "An application is a customized environment for a specific user profile, in which users interact with business data and business processes in the most efficient way."
+msgstr "アプリケーションは、特定のユーザー プロファイル用にカスタマイズされた環境になり、利用者はビジネス データおよびビジネス プロセスを最も効率的な方法で利用できるようになります。"
+
+msgid "An Error occurred during BDM access control deletion."
+msgstr "BDM アクセス制御の削除中にエラーが発生しました。"
+
+msgid "An error occurred when deploying the BDM. Consult the logs for more information."
+msgstr ""
+
+msgid "application descriptor has been partially imported. The following items are not loaded in the Portal."
+msgstr "アプリケーション記述子は、部分的にインポートされています。ポータル内に次の項目が読み込まれていません。"
+
+msgid "application descriptor has been successfully imported, with complete page mapping and menu mapping."
+msgstr "アプリケーション記述子は正常にインポートされ、ページ マッピングとメニュー マッピングが完了しています。"
+
+msgid "Application list"
+msgstr "アプリケーション リスト"
+
+msgid "Application XML file"
+msgstr "アプリケーションのXMLファイル"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Are you sure you want to delete this membership ?"
+msgstr "この所属を削除してもよろしいですか？"
+
+msgid "Assign to me. Only I will be able to do it"
+msgstr "自分にアサイン。それを実行できるのは、自分だけになります。"
+
+msgid "Assigned on"
+msgstr "アサイン日時"
+
+msgid "Available or My tasks"
+msgstr "このマークはあなただけに指名されたタスクを示します"
+
+msgid "Available tasks"
+msgstr "応受援タスク"
+
+msgid "back"
+msgstr "戻る"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "BDM access control file"
+msgstr "BDM のアクセス制御ファイル"
+
+msgid "BDM access control file can now be installed."
+msgstr ""
+
+msgid "BDM file"
+msgstr ""
+
+msgid "BDM successfully updated."
+msgstr ""
+
+msgid "Before updating the BDM, access control file should be deleted."
+msgstr ""
+
+msgid "Before you can update a form mapping, you need to add the new form. To add it for this process only, upload it from the Form list tab"
+msgstr "フォームのマッピングを更新する前に、新しいフォームを追加する必要があります。このプロセスだけに追加するには、フォームリスト タブからアップロードします。"
+
+msgid "Before you import the application descriptor, the pages and the profile must already be loaded in the Portal."
+msgstr "アプリケーション記述子をインポートする前に、ページとプロファイルは、ポータル内に既に読み込まれている必要があります。"
+
+msgid "Bonita edition: <strong>{{LicenseMonitoringCtrl.license.edition}}</strong>"
+msgstr "Bonita エディション： <strong>{{LicenseMonitoringCtrl.license.edition}}</strong>"
+
+msgid "Bonita uses Hibernate for data persistence, therefore some changes are handled well, like adding new objects or attributes, but some others we cannot guarantee so far, like changing the type of an attribute or deleting an attribute."
+msgstr ""
+
+msgid "BPM Services must be paused. Go to \"BPM Services\" menu option."
+msgstr ""
+
+msgid "Business card"
+msgstr "業務上の連絡先"
+
+msgid "Business Data Model access control"
+msgstr "ビジネス データ モデル アクセス制御"
+
+msgid "Business Data Model definition"
+msgstr "ビジネス データ モデル定義"
+
+msgid "Business objects or attributes will not be visible to the people in those profiles."
+msgstr "ビジネス オブジェクトまたは属性は、それらのプロファイル中のユーザーに対し表示されません。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Case"
+msgstr "案件"
+
+msgid "Case comments"
+msgstr "案件コメント"
+
+msgid "Case counter"
+msgstr "案件カウンター"
+
+msgid "Case ID"
+msgstr "案件ID"
+
+msgid "Case list"
+msgstr "案件リスト"
+
+msgid "Case overview"
+msgstr "案件概況"
+
+msgid "Case overview cannot be empty"
+msgstr "案件概要を空白にすることはできません。"
+
+msgid "Case state"
+msgstr "案件の状態"
+
+msgid "Case usage:"
+msgstr "ご利用案件数："
+
+msgid "Cases"
+msgstr "案件"
+
+msgid "cases available."
+msgstr ""
+
+msgid "cases created so far"
+msgstr ""
+
+msgid "Cases with failures"
+msgstr "エラー発生案件"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Check that each entity has the relevant Process Manager profile in the Portal."
+msgstr "ポータル内に各エンティティに関連するプロセス管理者プロファイルがあるか確認してください。"
+
+msgid "Check that each entity is mapped to a profile, for either Bonita Portal or for applications you have created."
+msgstr "各エンティティが Bonita ポータル、またはあなたが作成したアプリケーションのいずれかのプロファイルにマップされていることを確認します。"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "Class name"
+msgstr "クラス名"
+
+msgid "Cleaning the database from access control data can take some time."
+msgstr ""
+
+msgid "Click here to choose the .xml file"
+msgstr ".xml ファイルを選択するにはここをクリック"
+
+msgid "Click here to choose your .xml file"
+msgstr ".xml ファイルを選択するにはここをクリック"
+
+msgid "Click here to choose your .zip file"
+msgstr ""
+
+msgid "Click here to choose your file (.zip)"
+msgstr "ファイル (.zip) を選択するにはここをクリックします"
+
+msgid "Click here to go to Profile listing page"
+msgstr "ページ上のプロファイルに移動するにはここをクリックします"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Comment:"
+msgstr "コメント："
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Configuration state"
+msgstr "構成設定の状態"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Confirm delete?"
+msgstr "削除していいですか？"
+
+msgid "Confirm new Password"
+msgstr "新しいパスワードを確認"
+
+msgid "Connector zip file"
+msgstr "コネクタ zip ファイル"
+
+msgid "Connectors"
+msgstr "コネクタ"
+
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピーする"
+
+msgid "Counters include cases from root processes and cases started by call activities."
+msgstr "カウンターには、ルート の親プロセスからの開始案件、およびコール アクティビティによって開始された子プロセスの案件が含まれます。"
+
+msgid "Country"
+msgstr "国"
+
+msgid "CPU information"
+msgstr "CPU 情報"
+
+msgid "Create a new membership"
+msgstr "新しいメンバーシップを作成します"
+
+msgid "Create an application"
+msgstr "アプリケーションを作成します"
+
+msgid "Created by"
+msgstr "作成者"
+
+msgid "Creation"
+msgstr "作成"
+
+msgid "Creation date"
+msgstr "作成日時"
+
+msgid "Creation on"
+msgstr "作成対象："
+
+msgid "Current license"
+msgstr "現在のライセンス"
+
+msgid "Custom information"
+msgstr "カスタム情報"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete access control file"
+msgstr "アクセス制御ファイルを削除"
+
+msgid "Delete application"
+msgstr "アプリケーションを削除"
+
+msgid "Delete membership"
+msgstr "所属を削除"
+
+msgid "Delete process"
+msgstr "プロセスを削除"
+
+msgid "Delete the installed access control file"
+msgstr ""
+
+msgid "Delete the process"
+msgstr "このプロセスを削除します"
+
+msgid "Depending on the size of the database, this may take quite some time and slow down users activity."
+msgstr "データベースのサイズによっては、かなりの時間がかかって、ユーザーのアクティビティが遅くなる可能性があります。"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Diagram Key"
+msgstr "ダイアグラムの凡例"
+
+msgid "Disabled, no new case can be started"
+msgstr "無効なプロセス、開始する新規案件がない"
+
+msgid "Display name"
+msgstr "表示名"
+
+msgid "documentation"
+msgstr ""
+
+msgid "Don't forget to start BPM Services again."
+msgstr ""
+
+msgid "Done tasks"
+msgstr "完了したタスク"
+
+msgid "Due date"
+msgstr "期限"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit menu"
+msgstr "メニューを編集します"
+
+msgid "Edit menu item"
+msgstr "メニュー項目を編集"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "Enable all"
+msgstr "すべて有効にする"
+
+msgid "End date"
+msgstr "終了日"
+
+msgid "Enter a new category name and press \"Enter\" key to create a new category and assign it to the current process."
+msgstr "新しいカテゴリ名を入力し、\"Enter\"キーを押して新しいカテゴリを作成したうえで、現在のプロセスにそれをアサインします。"
+
+msgid "Enter user"
+msgstr "ユーザーを入力します"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Error while installing BDM access control file'"
+msgstr "BDM のアクセス制御ファイルをインストール中にエラーが発生しました。"
+
+msgid "Errors preventing the installation:"
+msgstr ""
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Export application descriptor"
+msgstr "アプリケーション記述子をエクスポート"
+
+msgid "Export the installed access control file"
+msgstr ""
+
+msgid "Failed Flow Nodes"
+msgstr "作業中にエラー発生"
+
+msgid "filter scripts..."
+msgstr "スクリプトのフィルター..."
+
+msgid "Filters"
+msgstr "フィルター"
+
+msgid "First name"
+msgstr "姓（英語の場合：First name）"
+
+msgid "Form"
+msgstr "フォーム"
+
+msgid "Form cannot be empty"
+msgstr "フォームは空にできません"
+
+msgid "Form list"
+msgstr "フォーム一覧"
+
+msgid "Forms"
+msgstr "フォーム"
+
+msgid "General"
+msgstr "全般"
+
+msgid "General information"
+msgstr "全般的な情報"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "Healthy"
+msgstr "正常"
+
+msgid "Healthy cases"
+msgstr "正常処理案件"
+
+msgid "Hide menu"
+msgstr "メニューを非表示"
+
+msgid "Hide Menu"
+msgstr "メニューを非表示"
+
+msgid "Hide panel"
+msgstr "パネルを非表示"
+
+msgid "However, you can still install this file and then install the missing profiles."
+msgstr "ただし、このファイルをインストールして、不足しているプロファイルをインストールできます。"
+
+msgid "However, you can still install this file."
+msgstr "ただし、このファイルをインストールすることができます。"
+
+msgid "ID"
+msgstr "id"
+
+msgid "If no form is needed, leave the field empty and apply"
+msgstr "フォームが不要な場合は、このフィールドは空白のままして適用"
+
+msgid "If the new BDM contains such changes, the database administrator will need to first handle the database update with scripts, then you will need to update only the data model and thoroughly test the changes."
+msgstr ""
+
+msgid "If you do not specify a form or a URL, the case must be started programmatically."
+msgstr "フォームまたは URL を指定しない場合、その案件はプログラムで開始する必要があります。"
+
+msgid "If you do not specify a form or a URL, the task must be executed programmatically."
+msgstr "フォームまたは URL を指定しない場合、そのタスクはプログラムで開始する必要があります。"
+
+msgid "Implementation version"
+msgstr "実装のバージョン"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import an application"
+msgstr "アプリケーションをインポート"
+
+msgid "Import an application descriptor"
+msgstr "アプリケーション記述子をインポート"
+
+msgid "In case of an update, all access control data will be overwritten in the BDM."
+msgstr ""
+
+msgid "In task name column"
+msgstr "[タスク名] 列"
+
+msgid "In the following objects, the displayed rules are empty:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules do not grant access to any attribute:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules do not grant access to any profiles:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules grant access to profiles that are not installed on the current platform:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules have the same name and apply to the same object:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules reference attributes that are duplicated:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules reference attributes that do not exist in the deployed BDM:"
+msgstr ""
+
+msgid "In the following objects, the displayed rules reference profiles that are duplicated:"
+msgstr ""
+
+msgid "In the following objects, the object name and its name in the attribute wrapper are inconsistent:"
+msgstr ""
+
+msgid "In the menu <i>Organization > Manage</i>, go to the <i>Users</i> page of the wizard"
+msgstr "メニューの <i>組織 > 管理</i>で、 <i>ユーザー</i> のウィザード ページに進む"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Install a BDM access control file"
+msgstr "BDM のアクセス制御ファイルをインストール"
+
+msgid "Install a BDM file"
+msgstr ""
+
+msgid "Install an access control file"
+msgstr ""
+
+msgid "Install anyway"
+msgstr ""
+
+msgid "Install Business Data Model"
+msgstr ""
+
+msgid "Installing Business Data Model"
+msgstr ""
+
+msgid "Installing or updating the BDM implies to be logged in as Technical User, and to shut down all BPM services."
+msgstr ""
+
+msgid "Instantiation"
+msgstr "インスタンスの生成"
+
+msgid "Internal server error."
+msgstr "内部サーバー エラーです。"
+
+msgid "Job title"
+msgstr "役職名"
+
+msgid "Last login"
+msgstr "最終ログイン日時"
+
+msgid "Last name"
+msgstr "名（英語の場合：Last name）"
+
+msgid "Last update"
+msgstr "最新更新日時"
+
+msgid "Layout"
+msgstr "レイアウト"
+
+msgid "Legacy"
+msgstr "レガシー"
+
+msgid "License mode: <strong>{{LicenseMonitoringCtrl.license.licenseMode}}</strong>"
+msgstr "ライセンス モード： <strong> {{LicenseMonitoringCtrl.license.licenseMode}}</strong>"
+
+msgid "Loading..."
+msgstr "ロード中..."
+
+msgid "Log in as platform administrator to see the license status. Only the platform administrator can access this information."
+msgstr "ライセンス ステータスを確認するには、プラットフォーム管理者としてログインします。プラットフォーム管理者だけが、この情報にアクセスすることができます。"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Look & Feel"
+msgstr "ルック＆フィール"
+
+msgid "Make both BDM and access control file consistent in order to install."
+msgstr ""
+
+msgid "Make sure all artifacts enabled on the platform are compatible with the new BDM."
+msgstr ""
+
+msgid "Make this task available to other team members again"
+msgstr "このタスクは他のチーム メンバーでも行えるようにする"
+
+msgid "Make this task personal: only I will be able to do it"
+msgstr "このタスクは自分だけが行えるようにする"
+
+msgid "Manage Categories"
+msgstr "カテゴリを管理"
+
+msgid "Manager"
+msgstr "マネージャ"
+
+msgid "Mapping"
+msgstr "マッピング"
+
+msgid "MAX"
+msgstr "最大"
+
+msgid "Maximum size 255 characters"
+msgstr "最大 255 文字"
+
+msgid "Me"
+msgstr "自分"
+
+msgid "Memberships"
+msgstr "所属"
+
+msgid "MIN"
+msgstr "最小"
+
+msgid "Mobile"
+msgstr "携帯番号"
+
+msgid "Monitor open cases"
+msgstr "進行中案件のモニタリング"
+
+msgid "Monitoring status"
+msgstr "進捗状況のモニタリング"
+
+msgid "Multi-page menu"
+msgstr "複数ページ メニュー"
+
+msgid "My tasks"
+msgstr "マイタスク"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Never"
+msgstr "なし"
+
+msgid "New"
+msgstr "新規"
+
+msgid "New comment"
+msgstr "新しいコメント"
+
+msgid "New Password"
+msgstr "新しいパスワード"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "No application available."
+msgstr "利用可能なアプリケーションはありません。"
+
+msgid "No cases to display"
+msgstr "表示する案件はありません"
+
+msgid "No comment on this case yet. To add one, use the input field at the bottom of this panel"
+msgstr "まだこの案件に対するコメントがありません。追加するには、このパネルの下部にあるコメント入力フィールドを使用します。"
+
+msgid "No contract has been defined. The form or URL specified here must only execute the task and not send any data."
+msgstr "コントラクトが定義されていません。ここで指定したフォームまたは URL は、タスクを実行するだけで、任意のデータを送信しません。"
+
+msgid "No contract has been defined. The form or URL specified here must only start the case and not send any data."
+msgstr "コントラクトが定義されていません。ここで指定したフォームまたは URL は、案件を開始するだけで、任意のデータを送信しません。"
+
+msgid "No custom information defined."
+msgstr "カスタムの情報が定義されていません。"
+
+msgid "No description."
+msgstr "説明がありません。"
+
+msgid "No done task yet."
+msgstr "まだ完了したタスクはありません。"
+
+msgid "No form expected"
+msgstr "期待されたフォームがありません。"
+
+msgid "No form is needed. You can enter a comment and confirm."
+msgstr "フォームは不要です。コメントを入力し、確認することができます。"
+
+msgid "No form mapped"
+msgstr "マッピングされたフォームがありません。"
+
+msgid "No groovy script found"
+msgstr "Groovy スクリプトが見つかりません。"
+
+msgid "No mapping"
+msgstr "マッピングなし"
+
+msgid "No Mapping"
+msgstr "マッピングなし"
+
+msgid "No profile mapped to this application"
+msgstr "このアプリケーションにマップされているプロファイルはありません。"
+
+msgid "No value"
+msgstr "値なし"
+
+msgid "Non-blocking warnings:"
+msgstr ""
+
+msgid "Note that updating the model modifies existing database tables definitively."
+msgstr ""
+
+msgid "of"
+msgstr "日目/"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "One or more connectors on case start or case end failed"
+msgstr "案件の開始または終了時に、1 つ、または複数のコネクタでエラーが発生しました"
+
+msgid "One-page menu"
+msgstr "1 ページ メニュー"
+
+msgid "Only cases from root processes are displayed in the table below. No details are available for cases started by call activities."
+msgstr "ルート親プロセスの案件だけが、次の表に表示されます。コール アクティビティによって開始された案件詳細は表示されません。"
+
+msgid "Only I can do this task"
+msgstr "私だけがこのタスクを実行できる"
+
+msgid "Only one Business Data Model (BDM) can be active at a time."
+msgstr ""
+
+msgid "Open cases"
+msgstr "進行中案件"
+
+msgid "Open in a popup"
+msgstr "ポップアップで開く"
+
+msgid "Open the task to perform it"
+msgstr "実行するタスクを開く"
+
+msgid "Other issue."
+msgstr ""
+
+msgid "Overview"
+msgstr "オーバービュー"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "Page zip file"
+msgstr "ページの zip ファイル"
+
+msgid "Pages"
+msgstr "ページ"
+
+msgid "Parameters"
+msgstr "パラメータ"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Passwords don't match"
+msgstr "パスワードが一致しません"
+
+msgid "Pending Flow Nodes"
+msgstr "作業実行を待機中"
+
+msgid "Personal information"
+msgstr "個人情報"
+
+msgid "Phone"
+msgstr "電話番号"
+
+msgid "Platform administrator login"
+msgstr "プラットフォーム管理者ログイン"
+
+msgid "Priority"
+msgstr "優先度"
+
+msgid "Process"
+msgstr "プロセス"
+
+msgid "Process enabled"
+msgstr "有効なプロセス"
+
+msgid "Process list"
+msgstr "プロセス リスト"
+
+msgid "Process Manager mapping"
+msgstr "プロセス管理者のマッピング"
+
+msgid "Process name"
+msgstr "プロセス名"
+
+msgid "Process version"
+msgstr "プロセスのバージョン"
+
+msgid "Process:"
+msgstr "プロセス:"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "Profiles"
+msgstr "プロファイル"
+
+msgid "Profiles / Memberships"
+msgstr "プロファイル /  所属"
+
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+msgid "Refresh data"
+msgstr "データを再読み込み"
+
+msgid "Release"
+msgstr "手放す"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove all"
+msgstr "すべて削除"
+
+msgid "Renewal"
+msgstr "更新"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Return Type : {}"
+msgstr "戻り値の型: {}"
+
+msgid "Roles"
+msgstr "役割"
+
+msgid "Rule names should be unique."
+msgstr "ルールの名前は一意である必要があります。"
+
+msgid "Rules on objects that compose others must be defined at their \"parent\" object level."
+msgstr ""
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgid "Search Key 1"
+msgstr "検索キー 1"
+
+msgid "Search Key 2"
+msgstr "検索キー 2"
+
+msgid "Search Key 3"
+msgstr "検索キー 3"
+
+msgid "Search Key 4"
+msgstr "検索キー 4"
+
+msgid "Search Key 5"
+msgstr "検索キー 5"
+
+msgid "Search..."
+msgstr "検索..."
+
+msgid "Select the <i>User information management</i> tab to add <i>Custom information</i> on the right"
+msgstr " <i>ユーザー情報管理</i>タブを選択し、右側の <i>カスタム情報</i> を追加します"
+
+msgid "Select the entities (users, groups, roles, memberships) to map to the actors. These entities will do the human tasks in the process."
+msgstr "アクターにアサインするエンティティ（ユーザー、グループ、役割、所属など）を選択します。これらのエンティティは、プロセスにヒューマン タスクを実行します。"
+
+msgid "Select the entities (users, groups, roles, memberships) who will supervise this process."
+msgstr "このプロセスを監督するエンティティ（ユーザー、グループ、役割、所属） を選択します。"
+
+msgid "Select the page"
+msgstr "ページを選択します"
+
+msgid "Set as Home page"
+msgstr "ホーム ページとして設定します"
+
+msgid "Show"
+msgstr "表示件数"
+
+msgid "Show all the tasks I can do: both personal tasks and tasks available to other team members"
+msgstr "自分が行うことができるすべてのタスクを表示する： 自分だけにアサインされたタスクおよび他のチーム メンバーでも行えるタスクの両方を表示"
+
+msgid "Show available tasks in task list for archived case"
+msgstr "完了済み案件タスク リスト内の応受援タスクを表示"
+
+msgid "Show available tasks in task list for case"
+msgstr "案件タスク リスト内の応受援タスクを表示"
+
+msgid "Show key"
+msgstr "凡例を表示"
+
+msgid "Show menu"
+msgstr "メニューを表示"
+
+msgid "Show Menu"
+msgstr "メニューを表示"
+
+msgid "Show my personal tasks: the ones I took and the ones assigned to me, automatically or by a process manager"
+msgstr "自分だけにアサインされたタスクを表示する： 自分自身で引き受けたもの、自動的、またはプロセス管理者によってアサインされたもの"
+
+msgid "Show panel"
+msgstr "パネルを表示"
+
+msgid "Show the tasks that I have done"
+msgstr "自分が関与し実行したタスクを表示"
+
+msgid "sort by Cases with failures ascending"
+msgstr "異常終了案件を昇順に並べ替える"
+
+msgid "sort by Cases with failures descending"
+msgstr "異常終了案件を降順に並べ替える"
+
+msgid "sort by End date ascending"
+msgstr "終了日を昇順で並べ替える"
+
+msgid "sort by End date descending"
+msgstr "終了日を降順で並べ替える"
+
+msgid "sort by Healthy cases ascending"
+msgstr "正常終了案件を昇順で並べ替える"
+
+msgid "sort by Healthy cases descending"
+msgstr "正常終了案件を降順で並べ替える"
+
+msgid "sort by ID ascending"
+msgstr "ID を昇順で並べ替える"
+
+msgid "sort by ID descending"
+msgstr "ID を降順で並べ替える"
+
+msgid "Sort by name"
+msgstr "名前で並べ替え"
+
+msgid "sort by Open cases ascending"
+msgstr "開始案件を昇順で並べ替える"
+
+msgid "sort by Open cases descending"
+msgstr "開始案件を降順で並べ替える"
+
+msgid "sort by Process name ascending"
+msgstr "プロセス名を昇順で並べ替える"
+
+msgid "sort by Process name descending"
+msgstr "プロセス名を降順で並べ替える"
+
+msgid "sort by Start date ascending"
+msgstr "開始日を昇順で並べ替える"
+
+msgid "sort by Start date descending"
+msgstr "開始日を降順で並べ替える"
+
+msgid "sort by State ascending"
+msgstr "状態を昇順で並べ替える"
+
+msgid "sort by State descending"
+msgstr "状態を降順で並べ替える"
+
+msgid "Sort by updated on"
+msgstr "更新日で並べ替え"
+
+msgid "Sort by URL"
+msgstr "URL で並べ替え"
+
+msgid "Sort by version"
+msgstr "バージョンで並び替え"
+
+msgid "sort by Version ascending"
+msgstr "バージョンを昇順で並べ替える"
+
+msgid "sort by Version descending"
+msgstr "バージョンを降順で並べ替える"
+
+msgid "Specify an imported form or a URL"
+msgstr "インポートしたフォームまたは URL を指定します。"
+
+msgid "Specify the menu structure."
+msgstr "メニュー構造を指定します"
+
+msgid "Start date"
+msgstr "起案日"
+
+msgid "Started by"
+msgstr "起案者"
+
+msgid "State"
+msgstr "状態"
+
+msgid "Status"
+msgstr ""
+
+msgid "Status of importation"
+msgstr "インポートの状態"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Subscription"
+msgstr ""
+
+msgid "Take"
+msgstr "引き受ける"
+
+msgid "Task form"
+msgstr "タスク フォーム"
+
+msgid "Task Id"
+msgstr "タスクID"
+
+msgid "Task list"
+msgstr "タスク リスト"
+
+msgid "Task name"
+msgstr "タスク名"
+
+msgid "Task1"
+msgstr "タスク1"
+
+msgid "Tasks"
+msgstr "タスク"
+
+msgid "The application"
+msgstr "アプリケーション"
+
+msgid "The BDM needs to be installed."
+msgstr ""
+
+msgid "The case counter will be reset when your subscription expires (<strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp|dateI18n : 'LL'}}</strong>)."
+msgstr ""
+
+msgid "The case is archived. You cannot add comments anymore"
+msgstr "この案件は完了しています。もうコメントを追加することはできません。"
+
+msgid "The current process has no connectors defined."
+msgstr "現在のプロセスには、コネクタが定義されていません。"
+
+msgid "The current process has no forms deployed."
+msgstr "現在のプロセスには、デプロイされたフォームがありません。"
+
+msgid "The current process has no parameters defined."
+msgstr "現在のプロセスには、パラメータが定義されていません。"
+
+msgid "The current process has no tasks defined."
+msgstr "現在のプロセスには、タスクが定義されていません。"
+
+msgid "The deleted case will be permanently deleted and will not be stored in the archives."
+msgstr "削除された案件は完全に削除され、アーカイブには格納されません。"
+
+msgid "The deleted case will be permanently deleted from the archives."
+msgstr "削除された案件は、アーカイブから完全に削除されます。"
+
+msgid "The following business objects are referenced in the displayed rules but they do not exist in the deployed BDM:"
+msgstr ""
+
+msgid "The following business objects have no access control rules defined:"
+msgstr "次のビジネス オブジェクトは、定義されたアクセス制御ルールがありません。"
+
+msgid "The following objects are linked to other objects with a composition relationship but they also have direct rules defined:"
+msgstr ""
+
+msgid "The following objects are linked to other objects with a composition relationship in the access control file, but they are not so in the BDM:"
+msgstr ""
+
+msgid "The page allows users with relevant profiles to access the following permissions:"
+msgstr "ページは次の権限でアクセスできる関連プロファイルをユーザーに付与します。"
+
+msgid "The page archive (.zip file) must contain page.properties, either the index.html or the Index.groovy file, and the resources needed for the page. For details, see the documentation or the example page readme (available in the custom page list)."
+msgstr "ページのアーカイブ (.zip ファイル) は、 page.properties、index.html または Index.groovy ファイルのいずれか、およびページに必要なリソースを含める必要があります。詳細については、ドキュメントまたはサンプルページの readme (カスタム ページ リストで利用可能) を参照してください。"
+
+msgid "The Process cannot be enabled"
+msgstr "プロセスを有効にすることができません"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Then for each user, fill out the custom information value, in the Studio (<i>List of users</i> tab of the organization), or right on this Portal page."
+msgstr "Studioの組織の <i>ユーザーリスト</i> タブ、またはこのポータル ページの右側で、各ユーザーのカスタム情報の値を入力します。"
+
+msgid "There is no Business Data Model installed. Install a BDM and then install the Access Control rules."
+msgstr "インストールされているビジネス データ モデルはありません。BDM をインストールし、アクセス制御ルールをインストールします。"
+
+msgid "These deleted cases will be permanently deleted and will not be stored in the archives."
+msgstr "これらの削除された案件は完全に削除され、アーカイブには格納されません。"
+
+msgid "These deleted cases will be permanently deleted from the archives."
+msgstr "これらの削除された案件は、アーカイブから完全に削除されます。"
+
+msgid "They must be fixed in the xml file in order to install."
+msgstr ""
+
+msgid "They will not be accessible by anyone."
+msgstr "誰にもアクセスできなくなります。"
+
+msgid "This access control file cannot be installed with current BDM."
+msgstr ""
+
+msgid "This is the task details panel. No information to display"
+msgstr "これは、タスクの詳細パネルです。表示する情報がありません。"
+
+msgid "This must be fixed in the file in order to install."
+msgstr ""
+
+msgid "This page has no authorization permissions defined. If the page uses REST resources and authorization checking is activated,\\n update the page definition to specify the list of resources used."
+msgstr "このページのアクセス権限が定義されていません。このページが REST リソースを使用し、承認チェックが有効になっている場合、\\n使用しているリソースのリストを指定するためにページ定義を更新します。"
+
+msgid "This prevents the correct execution of the rules."
+msgstr "ルールの正しい実行を阻止します。"
+
+msgid "This task is completed."
+msgstr "このタスクは完了しました。"
+
+msgid "Those business objects will not be accessible by anyone."
+msgstr "これらのビジネス オブジェクトは、誰にもアクセスできなくなります。"
+
+msgid "Those business objects will not be accessible through those rules."
+msgstr "これらのビジネス オブジェクトは、これらのルールを介してアクセスできなくなります。"
+
+msgid "Those rule names must be fixed in order to install."
+msgstr ""
+
+msgid "Those rules must be fixed in order to install."
+msgstr ""
+
+msgid "Those rules must be fixed or you need to update the BDM on the platform in order to install."
+msgstr ""
+
+msgid "Title"
+msgstr "タイトル（性別）"
+
+msgid "To add it at tenant level, so it can be used in more than one process or task, add the form as a resource"
+msgstr "テナントレベルでそれを追加すると、1 つ以上のプロセスまたはタスクでそれが使用され、リソースとしてフォームを追加します。"
+
+msgid "To create an application, click New or Import."
+msgstr "アプリケーションを作成するには、新規またはインポート をクリックします。"
+
+msgid "To do"
+msgstr "To do"
+
+msgid "To do so, go to"
+msgstr "これを行うには、次へ進む: "
+
+msgid "To do so, go to Bonita Studio <i>\"Development\" > \"Business Data\" > \"BDM access control\" > \"Define\"</i> menu"
+msgstr ""
+
+msgid "To do so, log out and then log back in as the Technical User, whose credentials are set upon Bonita platform installation."
+msgstr "そのためには、ログアウトし、Bonita プラットフォーム のインストール時に設定されたテクニカル ユーザーの資格で再ログインします。"
+
+msgid "To fill out the form, you need to take this task. This means you will be the only one able to do it. To make it available to the team again, release it."
+msgstr "フォームに記入するには、このタスクを引き受ける必要があります。つまり、あなただけがこのタスクを実行できることになります。もう一度、チームで実行できるようにする（つまり、応受援タスクにする）には、そのタスクを手放します。"
+
+msgid "To know more about this platform configuration option, go to the"
+msgstr ""
+
+msgid "To personalize the display of search keys (and columns in general), use the table settings button on the right. You can search on up to 5 search keys."
+msgstr "検索キー の表示（および一般的な表示列）をカスタマイズしたい場合は、右側にある [テーブルの設定] ボタンを使用します。最大 5 つの検索キーで検索できます。"
+
+msgid "To protect data stored in the BDM, you can define access control rules on business objects attributes."
+msgstr ""
+
+msgid "To provision more cases, contact your sales person."
+msgstr ""
+
+msgid "To renew the license for this system, copy the request key below and go to the Customer Portal or contact your sales person."
+msgstr "このシステムのライセンスを更新するには、以下のリクエストキーをコピーしてカスタマー ポータルに進むか、あるいはお客様の営業担当者にコンタクトしてください。"
+
+msgid "Totals"
+msgstr "合計"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Type in a case id and <br> press enter to search for <br> human task of a specific case"
+msgstr "特定案件のヒューマンタスクを検索するには、<br>案件ID を入力し <br>エンターキーを押してください。"
+
+msgid "Unable to log in. Please check your username and password."
+msgstr "ログインできません。ユーザー名とパスワードを確認してください。"
+
+msgid "Unassign. This will make it available to team again"
+msgstr "アサインを解除します。このタスクはもう一度、応受援タスクに戻ります。"
+
+msgid "Undefined"
+msgstr "未設定"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update an access control file"
+msgstr ""
+
+msgid "Update business card"
+msgstr "業務上の連絡先を更新"
+
+msgid "Update Business Data Model"
+msgstr ""
+
+msgid "Update content of script {}"
+msgstr "スクリプト {} のコンテンツを更新します"
+
+msgid "Update custom information"
+msgstr "カスタム情報を更新"
+
+msgid "Update general information"
+msgstr "全般な情報を更新"
+
+msgid "Update password"
+msgstr "パスワードを更新"
+
+msgid "Update personal information"
+msgstr "個人情報を更新"
+
+msgid "Updated by"
+msgstr "更新者"
+
+msgid "Updated on"
+msgstr "更新日時"
+
+msgid "Upload new Page"
+msgstr "新しいページをアップロード"
+
+msgid "Upload new picture"
+msgstr "新しい画像をアップロード"
+
+msgid "Upload new version of {}"
+msgstr "{} の新しいバージョンをアップロードします"
+
+msgid "Upload new version of the connector"
+msgstr "コネクタの新しいバージョンをアップロードします"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Use Arrow up and Arrow down keys to browse among existing categories."
+msgstr "既存のカテゴリを閲覧するには、上矢印キーおよび下矢印キーを使用します。"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "username:"
+msgstr "ユーザー名:"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Validation Status"
+msgstr "検証結果"
+
+msgid "Value"
+msgstr "値"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "View case design"
+msgstr "案件のフロー図を表示"
+
+msgid "View case details"
+msgstr "案件詳細を表示"
+
+msgid "View case list"
+msgstr "案件リストを表示"
+
+msgid "View case overview"
+msgstr "案件概況を表示"
+
+msgid "View diagram"
+msgstr "プロセス図を表示"
+
+msgid "View task"
+msgstr "タスクを見る"
+
+msgid "View this task"
+msgstr "このタスクを見る"
+
+msgid "Warning :"
+msgstr ""
+
+msgid "Warning:"
+msgstr "警告:"
+
+msgid "We couldn't find what you are looking for."
+msgstr "お探しのものが見つかりませんでした。"
+
+msgid "When you export an application descriptor, pages and profiles are not exported in the file."
+msgstr "アプリケーション記述子をエクスポートする場合、ページとプロファイルはそのファイルにエクスポートされません。"
+
+msgid "will be permanently deleted."
+msgstr "恒久的に削除されます。"
+
+msgid "With failures"
+msgstr "エラー発生"
+
+msgid "with some warnings"
+msgstr ""
+
+msgid "X is the number of Flow Node instances"
+msgstr "X はそのフローノードの実行回数"
+
+msgid "You are about to export the descriptor of the application"
+msgstr "アプリケーションの記述子をエクスポートしようとしています"
+
+msgid "You can consult the logs for more information."
+msgstr "詳細についてはログを参照することができます。"
+
+msgid "You can create custom information in Bonita Studio:"
+msgstr "Bonita Studio でカスタム情報を作成できます："
+
+msgid "You must add a page before you can reference it in a menu."
+msgstr "それをメニューで参照する前に、ページを追加する必要があります。"
+
+msgid "Your current license permits you to use {{LicenseMonitoringCtrl.license.numberOfCPUCores}} cores."
+msgstr "現在のライセンスは、 {{LicenseMonitoringCtrl.license.numberOfCPUCores}} コアの使用を許可しています。"
+
+msgid "Your license expires <strong>{{ LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateAgo }}</strong>, on <strong>{{LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateI18n : 'LL'}}</strong>."
+msgstr "お客様のライセンスは、 <strong>{{ LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateAgo}}</strong> 後の <strong>{{LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateI18n : 'LL'}}</strong> に期限切れになります。"
+
+msgid "Your personal task list is empty. You can take a task from the ​<a href=\"#\" ng-click=\"changeFilter(TASK_FILTERS.TODO)\">To do</a> list."
+msgstr "マイタスク リストは空です。​<a href=\"#\" ng-click=\"changeFilter(TASK_FILTERS.TODO)\">To do</a> リストからタスクを選ぶことができます。"
+
+msgid "Your subscription expires on <strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp|dateI18n : 'LL'}}</strong>."
+msgstr ""
+
+msgid "Zip code"
+msgstr "郵便番号"
+

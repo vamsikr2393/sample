@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="StudioSubProcError" inkscape:version="0.47 r22583" sodipodi:docname="IntermediateCatchErrorEvent.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="32.367" height="32.367" viewBox="0 0 32.367 32.367"
+	 style="overflow:visible;enable-background:new 0 0 32.367 32.367;" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective257" inkscape:vp_z="32.366001 : 16.183001 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 16.183001 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:persp3d-origin="16.183001 : 10.788667 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="namedview251" inkscape:window-width="640" inkscape:window-height="480" inkscape:current-layer="StudioSubProcError" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="none" inkscape:cy="16.183001" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="7.291602" inkscape:cx="16.183001" gridtolerance="10">
+	</sodipodi:namedview>
+<circle id="BORDER" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.183" cy="16.183" r="15.333"/>
+<circle id="BORDER2" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.183" cy="16.183" r="12.5"/>
+<path id="STYLE" fill="#2C6DA3" d="M11.972,6.971l7.855,12.75l5.246-7.683l-5.195,13.355L12.65,13.455l-5.358,8.63
+	L11.972,6.971 M12.276,9.371l-1.725,5.572l1.25-2.014l0.86-1.386l0.845,1.395l6.176,10.202l1.296-3.33l-0.324,0.477l-0.869,1.271
+	l-0.809-1.312L12.276,9.371L12.276,9.371z"/>
+</svg>

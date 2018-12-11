@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="StudioMultiInstance" inkscape:version="0.48.0 r9654" sodipodi:docname="multiInstance_small.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="17.003" height="18.418" viewBox="0 0 17.003 18.418"
+	 style="overflow:visible;enable-background:new 0 0 17.003 18.418;" xml:space="preserve">
+<sodipodi:namedview  id="namedview9" inkscape:window-width="640" inkscape:window-height="480" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:current-layer="StudioMultiInstance" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" inkscape:cy="83.327001" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="0.28032165" inkscape:cx="0.001" fit-margin-top="0" gridtolerance="10">
+	</sodipodi:namedview>
+<path id="STYLE" inkscape:connector-curvature="0" fill="#2C6DA3" d="M2.845,16.991V1.428c0-0.002,0.001-0.004,0.001-0.005
+	S2.845,1.42,2.845,1.418V1.381H2.841C2.819,0.615,2.195,0,1.422,0C0.651,0,0.027,0.615,0.004,1.381H0.001v0.032
+	C0.001,1.416,0,1.42,0,1.423s0.001,0.007,0.001,0.01v15.553C0.001,16.989,0,16.993,0,16.997c0,0.785,0.637,1.422,1.422,1.422
+	c0.785,0,1.42-0.633,1.423-1.418l0,0l0,0c0-0.002,0.001-0.004,0.001-0.004C2.846,16.995,2.845,16.993,2.845,16.991z"/>
+<path id="STYLE2" inkscape:connector-curvature="0" fill="#2C6DA3" d="M9.923,16.991V1.428c0-0.002,0.002-0.004,0.002-0.005
+	S9.923,1.42,9.923,1.418V1.381H9.919C9.898,0.615,9.274,0,8.501,0C7.73,0,7.106,0.615,7.083,1.381H7.08v0.032
+	c0,0.003-0.001,0.007-0.001,0.01S7.08,1.43,7.08,1.433v15.553c0,0.003-0.001,0.007-0.001,0.011c0,0.785,0.637,1.422,1.422,1.422
+	c0.786,0,1.42-0.633,1.422-1.418l0,0l0,0c0-0.002,0.002-0.004,0.002-0.004C9.925,16.995,9.923,16.993,9.923,16.991z"/>
+<path id="STYLE3" inkscape:connector-curvature="0" fill="#2C6DA3" d="M17.001,16.991V1.428c0-0.002,0.002-0.004,0.002-0.005
+	s-0.002-0.003-0.002-0.005V1.381h-0.004C16.976,0.615,16.352,0,15.58,0c-0.771,0-1.396,0.615-1.418,1.381h-0.004v0.032
+	c0,0.003,0,0.007,0,0.01s0,0.007,0,0.01v15.553c0,0.003,0,0.007,0,0.011c0,0.785,0.637,1.422,1.422,1.422
+	c0.784,0,1.42-0.633,1.422-1.418l0,0l0,0c0-0.002,0.002-0.004,0.002-0.004C17.003,16.995,17.001,16.993,17.001,16.991z"/>
+</svg>

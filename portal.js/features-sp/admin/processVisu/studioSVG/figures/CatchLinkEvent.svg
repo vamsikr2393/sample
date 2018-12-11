@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1" id="StudioCatchLinkEvent" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="32.367" height="32.367"
+	 viewBox="0 0 32.367 32.367" style="overflow:visible;enable-background:new 0 0 32.367 32.367;" xml:space="preserve">
+	<circle fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.016" cy="16.182" r="15.333"/>
+	<circle fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.016" cy="16.182" r="12.5"/>
+	<g>
+		<path fill="#2C6DA3" d="M18.245,8.082l8.103,8.102l-8.103,8.103v-4.87H5.685v-6.584h12.56V8.082 M19.245,10.496v2.337v1h-1
+		H6.685v4.584h11.56h1v1v2.456l5.688-5.689L19.245,10.496L19.245,10.496z"/>
+	</g>
+</svg>

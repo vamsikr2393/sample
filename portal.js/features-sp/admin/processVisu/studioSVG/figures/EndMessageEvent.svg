@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1" id="StudioEndMessageEvent" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="33.365" height="33.367"
+	 viewBox="0 0 33.365 33.367" style="overflow:visible;enable-background:new 0 0 33.365 33.367;" xml:space="preserve">
+	<g>
+		<linearGradient id="XMLID_3_EndMessageEvent_" gradientUnits="userSpaceOnUse" x1="73.7842" y1="-673.4058" x2="92.4506" y2="-697.7385" gradientTransform="matrix(1 0 0 -1 -66.4341 -668.8887)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#F9D0C6"/>
+		</linearGradient>
+		<circle fill="url(#XMLID_3_EndMessageEvent_)" stroke="#89151A" stroke-width="2.7" cx="16.683" cy="16.683" r="15.333"/>
+		<g>
+			<linearGradient id="XMLID_4_EndMessageEvent_" gradientUnits="userSpaceOnUse" x1="105.7666" y1="-129.6504" x2="148.766" y2="-161.8999" gradientTransform="matrix(1 0 0 -1 -123.2021 -138.5566)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#F29B90"/>
+			</linearGradient>
+			<rect x="7.31" y="10.617" fill="url(#XMLID_4_EndMessageEvent_)" stroke="#89151A" stroke-width="1.7" width="18.748" height="12.132"/>
+			<polyline fill="transparent" stroke="#89151A" stroke-width="1.7" points="25.968,11.392 16.684,18.773 7.399,11.392"/>
+		</g>
+	</g>
+</svg>

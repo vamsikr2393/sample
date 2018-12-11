@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="StudioSubProcMessage" inkscape:version="0.47 r22583" sodipodi:docname="BoundaryMessageEvent.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="32.367" height="32.367" viewBox="0 0 32.367 32.367"
+	 style="overflow:visible;enable-background:new 0 0 32.367 32.367;" xml:space="preserve">
+<defs>
+
+
+		<inkscape:perspective  id="perspective257" inkscape:vp_z="32.366001 : 16.183001 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 16.183001 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:persp3d-origin="16.183001 : 10.788667 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="namedview251" inkscape:window-width="640" inkscape:window-height="480" inkscape:current-layer="StudioSubProcMessage" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="none" inkscape:cy="16.183001" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="7.291602" inkscape:cx="16.183001" gridtolerance="10">
+	</sodipodi:namedview>
+<circle id="BORDER" sodipodi:rx="15.333" sodipodi:cx="16.183001" sodipodi:ry="15.333" sodipodi:cy="16.183001" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.183" cy="16.183" r="15.333">
+</circle>
+<circle id="BORDER2" sodipodi:rx="12.5" sodipodi:cx="16.183001" sodipodi:ry="12.5" sodipodi:cy="16.183001" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="16.183" cy="16.183" r="12.5">
+</circle>
+<rect id="BORDER3" x="8.482" y="10.788" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" width="15.833" height="10.077"/>
+<polyline id="BORDER4" fill="transparent" stroke="#2C6DA3" stroke-width="1.2" points="24.24,11.007 16.399,17.242 8.558,11.007 "/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-288 380.1 33.9 33.9" enable-background="new -288 380.1 33.9 33.9" xml:space="preserve">
+<g id="StudioSubProcSignal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" inkscape:output_extension="org.inkscape.output.svgz.inkscape" sodipodi:version="0.32" inkscape:export-filename="/home/mestab/bonita-studio/plugins/org.bonitasoft.studio.pics/icons/figures/CatchSignalEvent.png" inkscape:export-ydpi="42.50491" inkscape:export-xdpi="42.50491" sodipodi:docname="BoundarySignalEvent.svgz" inkscape:version="0.47 r22583">
+	
+		<sodipodi:namedview  gridtolerance="10" inkscape:cx="-10.92884" inkscape:zoom="4.9262642" borderopacity="1" bordercolor="#666666" showgrid="false" inkscape:cy="13.686606" pagecolor="none" guidetolerance="10" objecttolerance="10" id="namedview154" inkscape:window-y="207" inkscape:window-x="207" inkscape:pageopacity="0" inkscape:current-layer="StudioSubProcSignal" inkscape:window-height="726" inkscape:window-width="1138" inkscape:pageshadow="2">
+		</sodipodi:namedview>
+	<defs>
+		
+		
+			<inkscape:perspective  inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 16.9375 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_z="33.875 : 16.9375 : 1" id="perspective158" inkscape:persp3d-origin="16.9375 : 11.291667 : 1">
+			</inkscape:perspective>
+		
+			<inkscape:perspective  inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_z="1 : 0.5 : 1" id="perspective3736" inkscape:persp3d-origin="0.5 : 0.33333333 : 1">
+			</inkscape:perspective>
+	</defs>
+	<path fill="none" stroke="#2C6DA3" stroke-width="1.7" d="M-270.7,381.8c-8.5,0-15.3,6.9-15.3,15.3s6.9,15.3,15.3,15.3
+		c8.5,0,15.3-6.9,15.3-15.3S-262.3,381.8-270.7,381.8z M-270.7,409.7c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5
+		c6.9,0,12.5,5.6,12.5,12.5S-263.8,409.7-270.7,409.7z"/>
+	<path fill="none" stroke="#2C6DA3" stroke-width="1.7" d="M-270.7,384.7c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5
+		c6.9,0,12.5-5.6,12.5-12.5S-263.8,384.7-270.7,384.7z M-278.9,403l8.2-15.2l8.2,15.2H-278.9z"/>
+	<polygon display="none" fill="none" stroke="#2C6DA3" stroke-width="23.5067" points="-278.9,403 -262.5,403 -270.7,387.7 	"/>
+</g>
+</svg>

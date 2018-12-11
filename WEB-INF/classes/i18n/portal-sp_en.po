@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonita\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-02 05:07+0200\n"
+"PO-Revision-Date: 2018-06-04 21:44-0400\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/portal-sp.po\n"
+
+msgid " To do so, go to %profilelink%."
+msgstr " To do so, go to %profilelink%."
+
+msgid " for "
+msgstr " for "
+
+msgid "%% - Add Pages"
+msgstr "%% - Add Pages"
+
+msgid "%% - Create menu"
+msgstr "%% - Create menu"
+
+msgid "%firstname% %lastname%"
+msgstr "%firstname% %lastname%"
+
+msgid "%groupname%"
+msgstr "%groupname%"
+
+msgid "%rolename%"
+msgstr "%rolename%"
+
+msgid "%rolename% of %groupname%"
+msgstr "%rolename% of %groupname%"
+
+msgid "<br/>"
+msgstr "<br/>"
+
+msgid "A profile includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal.<br/>When you import a profile, it overwrites any existing profile with the same name."
+msgstr "A profile includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal.<br/>When you import a profile, it overwrites any existing profile with the same name."
+
+msgid "A report archive has a .zip extension"
+msgstr "A report archive has a .zip extension"
+
+msgid "Aborted"
+msgstr "Aborted"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add Comment"
+msgstr "Add Comment"
+
+msgid "Add Profiles"
+msgstr "Add Profiles"
+
+msgid "Add a Role"
+msgstr "Add a Role"
+
+msgid "Add a comment"
+msgstr "Add a comment"
+
+msgid "Add a group"
+msgstr "Add a group"
+
+msgid "Add a group to Process Manager"
+msgstr "Add a group to Process Manager"
+
+msgid "Add a membership"
+msgstr "Add a membership"
+
+msgid "Add a membership to Process Manager"
+msgstr "Add a membership to Process Manager"
+
+msgid "Add a role"
+msgstr "Add a role"
+
+msgid "Add a role to Process Manager"
+msgstr "Add a role to Process Manager"
+
+msgid "Add a subtask"
+msgstr "Add a subtask"
+
+msgid "Add a user"
+msgstr "Add a user"
+
+msgid "Add a user to Process Manager"
+msgstr "Add a user to Process Manager"
+
+msgid "Add page"
+msgstr "Add page"
+
+msgid "Add selected page(s) to this profile"
+msgstr "Add selected page(s) to this profile"
+
+msgid "Add this group to Process Manager"
+msgstr "Add this group to Process Manager"
+
+msgid "Add this membership to Process Manager"
+msgstr "Add this membership to Process Manager"
+
+msgid "Add this role to Process Manager"
+msgstr "Add this role to Process Manager"
+
+msgid "Add this user to Process Manager"
+msgstr "Add this user to Process Manager"
+
+msgid "Add you comment"
+msgstr "Add you comment"
+
+msgid "All"
+msgstr "All"
+
+msgid "An error has occurred on connector %name%"
+msgstr "An error has occurred on connector %name%"
+
+msgid "An error occured, please check your .zip file structure."
+msgstr "An error occured, please check your .zip file structure."
+
+msgid "An error occurred, please check your .zip file structure."
+msgstr "An error occurred, please check your .zip file structure."
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Archived"
+msgstr "Archived"
+
+msgid "Archived date"
+msgstr "Archived date"
+
+msgid "Are you sure you want to remove the selected Process Manager(s) for this process?"
+msgstr "Are you sure you want to remove the selected Process Manager(s) for this process?"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Available menu pages"
+msgstr "Available menu pages"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Business Data Model: %ok_ko%"
+msgstr "Business Data Model: %ok_ko%"
+
+msgid "By %user%"
+msgstr "By %user%"
+
+msgid "CANCEL"
+msgstr "CANCEL"
+
+msgid "Can't import profiles. A profile with name %name% already exists."
+msgstr "Can't import profiles. A profile with name %name% already exists."
+
+msgid "Can't import profiles. Please check that your file is well-formed"
+msgstr "Can't import profiles. Please check that your file is well-formed"
+
+msgid "Can't install access control: format is invalid."
+msgstr "Can't install access control: format is invalid."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Case id"
+msgstr "Case id"
+
+msgid "Case id: "
+msgstr "Case id: "
+
+msgid "Cases"
+msgstr "Cases"
+
+msgid "Cases "
+msgstr "Cases "
+
+msgid "Cases started or worked on by someone"
+msgstr "Cases started or worked on by someone"
+
+msgid "Check that each entity has the relevant Process Manager profile in the Portal."
+msgstr "Check that each entity has the relevant Process Manager profile in the Portal."
+
+msgid "Click here for more details"
+msgstr "Click here for more details"
+
+msgid "Click here to go to Profile listing page"
+msgstr "Click here to go to Profile listing page"
+
+msgid "Click to export the current Look & Feel"
+msgstr "Click to export the current Look & Feel"
+
+msgid "Click to export the default Look & Feel"
+msgstr "Click to export the default Look & Feel"
+
+msgid "Click to restore the default Look & Feel"
+msgstr "Click to restore the default Look & Feel"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Close the popup"
+msgstr "Close the popup"
+
+msgid "Close without executing the operation"
+msgstr "Close without executing the operation"
+
+msgid "Close without saving"
+msgstr "Close without saving"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Confirm export"
+msgstr "Confirm export"
+
+msgid "Confirm navigation bar reset?"
+msgstr "Confirm navigation bar reset?"
+
+msgid "Confirm removal"
+msgstr "Confirm removal"
+
+msgid "Confirm removing?"
+msgstr "Confirm removing?"
+
+msgid "Connector implemenation"
+msgstr "Connector implemenation"
+
+msgid "Connectors executed: "
+msgstr "Connectors executed: "
+
+msgid "Connectors failed: "
+msgstr "Connectors failed: "
+
+msgid "Connectors to be executed: "
+msgstr "Connectors to be executed: "
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create a profile"
+msgstr "Create a profile"
+
+msgid "Create menu"
+msgstr "Create menu"
+
+msgid "Create portal menus and manage pages in the menus. Custom pages are marked with this icon"
+msgstr "Create portal menus and manage pages in the menus. Custom pages are marked with this icon"
+
+msgid "Create this profile"
+msgstr "Create this profile"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Created by"
+msgstr "Created by"
+
+msgid "Created on"
+msgstr "Created on"
+
+msgid "Current menu pages"
+msgstr "Current menu pages"
+
+msgid "Custom pages"
+msgstr "Custom pages"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Default pages"
+msgstr "Default pages"
+
+msgid "Deletable"
+msgstr "Deletable"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete Profile %profileName%"
+msgstr "Delete Profile %profileName%"
+
+msgid "Delete selected cases"
+msgstr "Delete selected cases"
+
+msgid "Delete selected reports"
+msgstr "Delete selected reports"
+
+msgid "Delete the empty menu"
+msgstr "Delete the empty menu"
+
+msgid "Delete the menu"
+msgstr "Delete the menu"
+
+msgid "Delete the profile"
+msgstr "Delete the profile"
+
+msgid "Delete the profile '%profileName%'?"
+msgstr "Delete the profile '%profileName%'?"
+
+msgid "Delete this entry"
+msgstr "Delete this entry"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Description of the process parameter"
+msgstr "Description of the process parameter"
+
+msgid "Description of your report"
+msgstr "Description of your report"
+
+msgid "Description:"
+msgstr "Description:"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Discuss :"
+msgstr "Discuss :"
+
+msgid "Display a summary of all reports"
+msgstr "Display a summary of all reports"
+
+msgid "Display name"
+msgstr "Display name"
+
+msgid "Do for"
+msgstr "Do for"
+
+msgid "Do it"
+msgstr "Do it"
+
+msgid "Do not restore the default Look & Feel."
+msgstr "Do not restore the default Look & Feel."
+
+msgid "Do the task for"
+msgstr "Do the task for"
+
+msgid "Do this task for"
+msgstr "Do this task for"
+
+msgid "Do you want to delete this menu ?"
+msgstr "Do you want to delete this menu ?"
+
+msgid "Do you want to remove the page '%pageName%'?"
+msgstr "Do you want to remove the page '%pageName%'?"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Done by"
+msgstr "Done by"
+
+msgid "Done on %date%"
+msgstr "Done on %date%"
+
+msgid "Done on:"
+msgstr "Done on:"
+
+msgid "Done subtasks"
+msgstr "Done subtasks"
+
+msgid "Done/started by First name"
+msgstr "Done/started by First name"
+
+msgid "Done/started by Last name"
+msgstr "Done/started by Last name"
+
+msgid "Done/started by Username"
+msgstr "Done/started by Username"
+
+msgid "Due Time"
+msgstr "Due Time"
+
+msgid "Due date"
+msgstr "Due date"
+
+msgid "Due in:"
+msgstr "Due in:"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Process Managers"
+msgstr "Edit Process Managers"
+
+msgid "Edit a profile"
+msgstr "Edit a profile"
+
+msgid "Edit connector implementation"
+msgstr "Edit connector implementation"
+
+msgid "Edit menu entry"
+msgstr "Edit menu entry"
+
+msgid "Edit parameter"
+msgstr "Edit parameter"
+
+msgid "Edit process variable"
+msgstr "Edit process variable"
+
+msgid "Edit the profile"
+msgstr "Edit the profile"
+
+msgid "Edit this entry"
+msgstr "Edit this entry"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable selected process"
+msgstr "Enable selected process"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Enter a decription for this profile"
+msgstr "Enter a decription for this profile"
+
+msgid "Enter a valid name for the candidate for the task."
+msgstr "Enter a valid name for the candidate for the task."
+
+msgid "Enter a valid name for the initiator of the case"
+msgstr "Enter a valid name for the initiator of the case"
+
+msgid "Enter the comment for the subtask."
+msgstr "Enter the comment for the subtask."
+
+msgid "Enter the description for this subtask"
+msgstr "Enter the description for this subtask"
+
+msgid "Enter the description of this profile"
+msgstr "Enter the description of this profile"
+
+msgid "Enter the name for this profile"
+msgstr "Enter the name for this profile"
+
+msgid "Enter the name of this profile"
+msgstr "Enter the name of this profile"
+
+msgid "Enter the title for this subtask"
+msgstr "Enter the title for this subtask"
+
+msgid "Enter the user to do the task for"
+msgstr "Enter the user to do the task for"
+
+msgid "Enter the user to start the case for."
+msgstr "Enter the user to start the case for."
+
+msgid "Enter user"
+msgstr "Enter user"
+
+msgid "Error details"
+msgstr "Error details"
+
+msgid "Error during access control file reading."
+msgstr "Error during access control file reading."
+
+msgid "Error during profile import file reading."
+msgstr "Error during profile import file reading."
+
+msgid "Error message"
+msgstr "Error message"
+
+msgid "Error when creating profile"
+msgstr "Error when creating profile"
+
+msgid "Error when deleting profile"
+msgstr "Error when deleting profile"
+
+msgid "Error when updating profile"
+msgstr "Error when updating profile"
+
+msgid "Executed on"
+msgstr "Executed on"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export profiles"
+msgstr "Export profiles"
+
+msgid "Export selected profiles"
+msgstr "Export selected profiles"
+
+msgid "Export the current Look & Feel"
+msgstr "Export the current Look & Feel"
+
+msgid "Export the current Look & Feel to modify it or import it to another mobile version of the Bonita Portal"
+msgstr "Export the current Look & Feel to modify it or import it to another mobile version of the Bonita Portal"
+
+msgid "Export the current Look & Feel to modify it or to import it to another web version of the Bonita Portal."
+msgstr "Export the current Look & Feel to modify it or to import it to another web version of the Bonita Portal."
+
+msgid "Export the default Look & Feel"
+msgstr "Export the default Look & Feel"
+
+msgid "Export the default Look & Feel to modify it and create your own Look & Feel."
+msgstr "Export the default Look & Feel to modify it and create your own Look & Feel."
+
+msgid "Failure details"
+msgstr "Failure details"
+
+msgid "First name"
+msgstr "First name"
+
+msgid "Forms: %ok_ko%"
+msgstr "Forms: %ok_ko%"
+
+msgid "Getting more information about the specified case"
+msgstr "Getting more information about the specified case"
+
+msgid "Go back to previous view"
+msgstr "Go back to previous view"
+
+msgid "Go to more details report view"
+msgstr "Go to more details report view"
+
+msgid "Groovy example page"
+msgstr "Groovy example page"
+
+msgid "Group"
+msgstr "Group"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "HTML example page"
+msgstr "HTML example page"
+
+msgid "High"
+msgstr "High"
+
+msgid "Highest"
+msgstr "Highest"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "If the problem is fixed the task will be performed\n"
+msgstr "If the problem is fixed the task will be performed\n"
+" or back to available.\n"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import / Export"
+msgstr "Import / Export"
+
+msgid "Import and apply a new Look & Feel"
+msgstr "Import and apply a new Look & Feel"
+
+msgid "Import profiles"
+msgstr "Import profiles"
+
+msgid "Information on user"
+msgstr "Information on user"
+
+msgid "Install"
+msgstr "Install"
+
+msgid "Install a report"
+msgstr "Install a report"
+
+msgid "Install a report created using the Jasper standard. The report archive (.zip file) must contain the Jasper file;optionally, properties file(s) can be added if the report is localised in different languages. \n"
+msgstr "Install a report created using the Jasper standard. The report archive (.zip file) must contain the Jasper file;optionally, properties file(s) can be added if the report is localised in different languages. \n"
+" Enter the name of the report to install.The description and the screen shot are optional but are recommended in order to give a context to the user."
+
+msgid "Installed by"
+msgstr "Installed by"
+
+msgid "Installed on"
+msgstr "Installed on"
+
+msgid "It is still assigned until you release it."
+msgstr "It is still assigned until you release it."
+
+msgid "Last name"
+msgstr "Last name"
+
+msgid "License expiration date"
+msgstr "License expiration date"
+
+msgid "License type"
+msgstr "License type"
+
+msgid "Link not found"
+msgstr "Link not found"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "Lowest"
+msgstr "Lowest"
+
+msgid "MM/dd/yyyy"
+msgstr "MM/dd/yyyy"
+
+msgid "Manage Look n Feel"
+msgstr "Manage Look n Feel"
+
+msgid "Members"
+msgstr "Members"
+
+msgid "Membership"
+msgstr "Membership"
+
+msgid "Memberships"
+msgstr "Memberships"
+
+msgid "Menu entry name"
+msgstr "Menu entry name"
+
+msgid "Menu name"
+msgstr "Menu name"
+
+msgid "Mobile Portal"
+msgstr "Mobile Portal"
+
+msgid "Mobile Portal Look & Feel"
+msgstr "Mobile Portal Look & Feel"
+
+msgid "More"
+msgstr "More"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name of the process parameter"
+msgstr "Name of the process parameter"
+
+msgid "Name of the user who executed this task"
+msgstr "Name of the user who executed this task"
+
+msgid "Name of the user who install this report"
+msgstr "Name of the user who install this report"
+
+msgid "Name of your menu"
+msgstr "Name of your menu"
+
+msgid "Name of your report"
+msgstr "Name of your report"
+
+msgid "No error message"
+msgstr "No error message"
+
+msgid "No new case can be started. Please, contact your administrator."
+msgstr "No new case can be started. Please, contact your administrator."
+
+msgid "No stack trace"
+msgstr "No stack trace"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Number of failed tasks"
+msgstr "Number of failed tasks"
+
+msgid "Number of open cases"
+msgstr "Number of open cases"
+
+msgid "Number of open tasks"
+msgstr "Number of open tasks"
+
+msgid "Number of processes resolved"
+msgstr "Number of processes resolved"
+
+msgid "On"
+msgstr "On"
+
+msgid "Open a popup to install a report"
+msgstr "Open a popup to install a report"
+
+msgid "Opens a popup to create/import (a) profile(s)"
+msgstr "Opens a popup to create/import (a) profile(s)"
+
+msgid "Opens a popup to import the profile(s) mapping with the organization"
+msgstr "Opens a popup to import the profile(s) mapping with the organization"
+
+msgid "Opens a popup to install a process"
+msgstr "Opens a popup to install a process"
+
+msgid "Organization"
+msgstr "Organization"
+
+msgid "Overdue"
+msgstr "Overdue"
+
+msgid "Parameters: %ok_ko%"
+msgstr "Parameters: %ok_ko%"
+
+msgid "Parent Task"
+msgstr "Parent Task"
+
+msgid "Pending subtasks"
+msgstr "Pending subtasks"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Please choose a file to import"
+msgstr "Please choose a file to import"
+
+msgid "Please select a file first"
+msgstr "Please select a file first"
+
+msgid "Please select at least one page below to be added to your menu"
+msgstr "Please select at least one page below to be added to your menu"
+
+msgid "Portal navigation"
+msgstr "Portal navigation"
+
+msgid "Post time"
+msgstr "Post time"
+
+msgid "Priority"
+msgstr "Priority"
+
+msgid "Process Manager mapping"
+msgstr "Process Manager mapping"
+
+msgid "Process name"
+msgstr "Process name"
+
+msgid "Process version"
+msgstr "Process version"
+
+msgid "Processes information"
+msgstr "Processes information"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Profile already exists"
+msgstr "Profile already exists"
+
+msgid "Profile does not exists"
+msgstr "Profile does not exists"
+
+msgid "Profiles"
+msgstr "Profiles"
+
+msgid "Profiles XML file"
+msgstr "Profiles XML file"
+
+msgid "RESTORE"
+msgstr "RESTORE"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove the page"
+msgstr "Remove the page"
+
+msgid "Removing the '%pageName%' page will also delete its parent menu '%menuName%', as a menu cannot be left empty.\n"
+msgstr "Removing the '%pageName%' page will also delete its parent menu '%menuName%', as a menu cannot be left empty.\n"
+"Do you still want to remove?"
+
+msgid "Replay"
+msgstr "Replay"
+
+msgid "Replay task"
+msgstr "Replay task"
+
+msgid "Report archive"
+msgstr "Report archive"
+
+msgid "Report's screenshot"
+msgstr "Report's screenshot"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Request must contain p_date_from and p_date_to parameters."
+msgstr "Request must contain p_date_from and p_date_to parameters."
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Reset selected connector(s) and replay task"
+msgstr "Reset selected connector(s) and replay task"
+
+msgid "Reset this navigation bar editor"
+msgstr "Reset this navigation bar editor"
+
+msgid "Resolved"
+msgstr "Resolved"
+
+msgid "Restore"
+msgstr "Restore"
+
+msgid "Restore the default Look & Feel"
+msgstr "Restore the default Look & Feel"
+
+msgid "Restore the default Look & Feel."
+msgstr "Restore the default Look & Feel."
+
+msgid "Restore the default?"
+msgstr "Restore the default?"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save this menu modifications"
+msgstr "Save this menu modifications"
+
+msgid "Save this profile modifications"
+msgstr "Save this profile modifications"
+
+msgid "Save this value"
+msgstr "Save this value"
+
+msgid "Screen shot"
+msgstr "Screen shot"
+
+msgid "Select a group"
+msgstr "Select a group"
+
+msgid "Select a group to be added to Process Manager"
+msgstr "Select a group to be added to Process Manager"
+
+msgid "Select a role"
+msgstr "Select a role"
+
+msgid "Select a role to be added to Process Manager"
+msgstr "Select a role to be added to Process Manager"
+
+msgid "Select a role to be added to process manager"
+msgstr "Select a role to be added to process manager"
+
+msgid "Select a screen shot for this report"
+msgstr "Select a screen shot for this report"
+
+msgid "Select a user"
+msgstr "Select a user"
+
+msgid "Select a user to be added to Process Manager"
+msgstr "Select a user to be added to Process Manager"
+
+msgid "Select connector(s) to replay"
+msgstr "Select connector(s) to replay"
+
+msgid "Select connector(s) to reset before to replay"
+msgstr "Select connector(s) to reset before to replay"
+
+msgid "Select how you want to add profiles"
+msgstr "Select how you want to add profiles"
+
+msgid "Select the entities (users, groups, roles, memberships) who will supervise this process."
+msgstr "Select the entities (users, groups, roles, memberships) who will supervise this process."
+
+msgid "Select the people for the subtask"
+msgstr "Select the people for the subtask"
+
+msgid "Select the people which the subtask will be assigned to"
+msgstr "Select the people which the subtask will be assigned to"
+
+msgid "Select the priority for this user"
+msgstr "Select the priority for this user"
+
+msgid "Select your .zip file"
+msgstr "Select your .zip file"
+
+msgid "Session expired. Please log in again."
+msgstr "Session expired. Please log in again."
+
+msgid "Show more details about this archived case"
+msgstr "Show more details about this archived case"
+
+msgid "Show more details about this case"
+msgstr "Show more details about this case"
+
+msgid "Show more details about this process"
+msgstr "Show more details about this process"
+
+msgid "Show more details about this report"
+msgstr "Show more details about this report"
+
+msgid "Skipped"
+msgstr "Skipped"
+
+msgid "Sorry the process parameter %appParameter% has a type which is not editable"
+msgstr "Sorry the process parameter %appParameter% has a type which is not editable"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start for"
+msgstr "Start for"
+
+msgid "Start the case for."
+msgstr "Start the case for."
+
+msgid "Start this process for "
+msgstr "Start this process for "
+
+msgid "Started"
+msgstr "Started"
+
+msgid "Started by"
+msgstr "Started by"
+
+msgid "Started on"
+msgstr "Started on"
+
+msgid "State"
+msgstr "State"
+
+msgid "Status of import"
+msgstr "Status of import"
+
+msgid "Task"
+msgstr "Task"
+
+msgid "The Process Manager shares management of processes, cases, and tasks with the administrator for specified processes."
+msgstr "The Process Manager shares management of processes, cases, and tasks with the administrator for specified processes."
+
+msgid "The Profile %profileName% cannot be deleted. The following application(s) are using it."
+msgstr "The Profile %profileName% cannot be deleted. The following application(s) are using it."
+
+msgid "The business data: [ %refs% ] uses Business Objects which are not defined in the current Business Data model. Deploy a compatible Business Data model before enabling the process."
+msgstr "The business data: [ %refs% ] uses Business Objects which are not defined in the current Business Data model. Deploy a compatible Business Data model before enabling the process."
+
+msgid "The date when the case was started"
+msgstr "The date when the case was started"
+
+msgid "The date when the profile was updated"
+msgstr "The date when the profile was updated"
+
+msgid "The date when this profile has been added"
+msgstr "The date when this profile has been added"
+
+msgid "The date when this report has been installed"
+msgstr "The date when this report has been installed"
+
+msgid "The mobile Portal Look & Feel is specified in a .zip archive containing a set of CSS files, images, and, optionnally, fonts and Javascript."
+msgstr "The mobile Portal Look & Feel is specified in a .zip archive containing a set of CSS files, images, and, optionnally, fonts and Javascript."
+
+msgid "The parent task of this subtask"
+msgstr "The parent task of this subtask"
+
+msgid "The report archive is not the one expected. The expected archive is a .zip file containing a jasper file and properties file(s) if the report is localised in different languages."
+msgstr "The report archive is not the one expected. The expected archive is a .zip file containing a jasper file and properties file(s) if the report is localised in different languages."
+
+msgid "The report engine encountered a problem trying to display the report. Please consult the logs for more information."
+msgstr "The report engine encountered a problem trying to display the report. Please consult the logs for more information."
+
+msgid "The report has already been installed"
+msgstr "The report has already been installed"
+
+msgid "The task %taskName% has not been executed. "
+msgstr "The task %taskName% has not been executed. "
+
+msgid "The user that has added this profile"
+msgstr "The user that has added this profile"
+
+msgid "The user that updated this profile"
+msgstr "The user that updated this profile"
+
+msgid "The user who started the case"
+msgstr "The user who started the case"
+
+msgid "The version of the process that created this case"
+msgstr "The version of the process that created this case"
+
+msgid "The web Portal Look & Feel is specified in a .zip archive containing a set of LESS files, CSS files, images, some HTML files, and, optionnally, fonts and Javascript."
+msgstr "The web Portal Look & Feel is specified in a .zip archive containing a set of LESS files, CSS files, images, some HTML files, and, optionnally, fonts and Javascript."
+
+msgid "This %membertype% is already added to Process Manager."
+msgstr "This %membertype% is already added to Process Manager."
+
+msgid "This example page shows the structure of the source of a custom page using a Groovy class to build the HTML content."
+msgstr "This example page shows the structure of the source of a custom page using a Groovy class to build the HTML content."
+
+msgid "This example page shows the structure of the source of a custom page using a HTML file with Javascript."
+msgstr "This example page shows the structure of the source of a custom page using a HTML file with Javascript."
+
+msgid "This field is mandatory"
+msgstr "This field is mandatory"
+
+msgid "This link already exists"
+msgstr "This link already exists"
+
+msgid "This menu name already exists."
+msgstr "This menu name already exists."
+
+msgid "This menu will not be used by applications as they have their own navigation menu."
+msgstr "This menu will not be used by applications as they have their own navigation menu."
+
+msgid "This report displays the average time to close a case. Two figures are available: the mean and the median for a given period and/or process.\n"
+msgstr "This report displays the average time to close a case. Two figures are available: the mean and the median for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+
+msgid "This report displays the list of cases in each status (open or closed) for a given period and/or process.\n"
+msgstr "This report displays the list of cases in each status (open or closed) for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+
+msgid "This report displays the list of human tasks in each status (open, failed or closed) for a given period and/or process.\n"
+msgstr "This report displays the list of human tasks in each status (open, failed or closed) for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+
+msgid "This report displays the list of human tasks performed in one or more cases, for a given period, and/or process."
+msgstr "This report displays the list of human tasks performed in one or more cases, for a given period, and/or process."
+
+msgid "This report has already been installed."
+msgstr "This report has already been installed."
+
+msgid "This subtask is assigned to %assignee%."
+msgstr "This subtask is assigned to %assignee%."
+
+msgid "This task is already assigned to %assignee%. To do the task for a different user, you must first Unassign the task."
+msgstr "This task is already assigned to %assignee%. To do the task for a different user, you must first Unassign the task."
+
+msgid "This user was not found or this field is mandatory"
+msgstr "This user was not found or this field is mandatory"
+
+msgid "This view contains monitoring information about processes."
+msgstr "This view contains monitoring information about processes."
+
+msgid "This will delete the current Look & Feel."
+msgstr "This will delete the current Look & Feel."
+
+msgid "This will import a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+msgstr "This will import a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "To apply a new Look & Feel, import the archive. The new Look & Feel archive must have the same structure as the default. Warning: This will delete the current Look & Feel, so before you apply the new one, we recommend that you export and keep the current Look & Feel."
+msgstr "To apply a new Look & Feel, import the archive. The new Look & Feel archive must have the same structure as the default. Warning: This will delete the current Look & Feel, so before you apply the new one, we recommend that you export and keep the current Look & Feel."
+
+msgid "To create your own Look & Feel, export the default or current Look & Feel and modify it."
+msgstr "To create your own Look & Feel, export the default or current Look & Feel and modify it."
+
+msgid "To do so, contact your administrator"
+msgstr "To do so, contact your administrator"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type of the process parameter"
+msgstr "Type of the process parameter"
+
+msgid "Type the new value for %appParameter%"
+msgstr "Type the new value for %appParameter%"
+
+msgid "Unable to edit connector implementation"
+msgstr "Unable to edit connector implementation"
+
+msgid "Unresolved"
+msgstr "Unresolved"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update a subtask"
+msgstr "Update a subtask"
+
+msgid "Update date"
+msgstr "Update date"
+
+msgid "Update menu entry"
+msgstr "Update menu entry"
+
+msgid "Update process connector class name"
+msgstr "Update process connector class name"
+
+msgid "Updated by"
+msgstr "Updated by"
+
+msgid "Updated on"
+msgstr "Updated on"
+
+msgid "Upload a new connector implementation"
+msgstr "Upload a new connector implementation"
+
+msgid "User"
+msgstr "User"
+
+msgid "User name"
+msgstr "User name"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Warning: This will delete the current Look & Feel, so before you restore the default, we recommend that you export and keep the current Look & Feel."
+msgstr "Warning: This will delete the current Look & Feel, so before you restore the default, we recommend that you export and keep the current Look & Feel."
+
+msgid "Web Portal"
+msgstr "Web Portal"
+
+msgid "Web Portal Look & Feel"
+msgstr "Web Portal Look & Feel"
+
+msgid "X"
+msgstr "X"
+
+msgid "You are about to erase your menu bar.\n\n\n"
+msgstr "You are about to erase your menu bar.\n\n\n"
+
+msgid "You are about to export %itemCount% profile(s).<br/>This will create a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+msgstr "You are about to export %itemCount% profile(s).<br/>This will create a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+
+msgid "You are about to export %itemCount% profile(s).<br/>When you export a profile, it includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal."
+msgstr "You are about to export %itemCount% profile(s).<br/>When you export a profile, it includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal."
+
+msgid "case"
+msgstr "case"
+
+msgid "case_avg_time"
+msgstr "Case average time"
+
+msgid "case_history"
+msgstr "Case history"
+
+msgid "case_list"
+msgstr "Case list"
+
+msgid "cases"
+msgstr "cases"
+
+msgid "from:"
+msgstr "from:"
+
+msgid "group"
+msgstr "group"
+
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+msgid "profiles have been partially imported. The following items have not been mapped."
+msgstr "profiles have been partially imported. The following items have not been mapped."
+
+msgid "profiles have been successfully imported, with complete page mapping and organization mapping"
+msgstr "profiles have been successfully imported, with complete page mapping and organization mapping"
+
+msgid "profiles have not been imported because the definition contains an error (these profiles are not supported by this edition or 'isDefault' as been set to true)."
+msgstr "profiles have not been imported because the definition contains an error (these profiles are not supported by this edition or 'isDefault' as been set to true)."
+
+msgid "report"
+msgstr "report"
+
+msgid "reports"
+msgstr "reports"
+
+msgid "role"
+msgstr "role"
+
+msgid "task_list"
+msgstr "Task list"
+
+msgid "tasks"
+msgstr "tasks"
+
+msgid "to:"
+msgstr "to:"
+
+msgid "user"
+msgstr "user"
+

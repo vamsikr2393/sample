@@ -1,0 +1,1 @@
+<div class="container-fluid"><div class="row"><div ng-controller="AlertCtrl" class="alertBox"><div ng-repeat="alert in alerts"><alert ng-if="alert.text" type="{{alert.type}}" close="closeMessage($index)">{{alert.text}}</alert></div></div></div></div>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1"
+	 id="StudioANDGateway" inkscape:version="0.47 r22583" sodipodi:docname="CatchSignalEvent.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" inkscape:export-xdpi="42.50491" inkscape:export-ydpi="42.50491" inkscape:export-filename="/home/mestab/bonita-studio/plugins/org.bonitasoft.studio.pics/icons/figures/CatchSignalEvent.png"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="33.875" height="33.875" viewBox="0 0 33.875 33.875"
+	 style="overflow:visible;enable-background:new 0 0 33.875 33.875;" xml:space="preserve">
+	<sodipodi:namedview  id="namedview154" inkscape:window-width="640" inkscape:window-height="480" inkscape:current-layer="StudioANDGateway" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" inkscape:cy="16.9375" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="4.9262642" inkscape:cx="16.9375" gridtolerance="10"></sodipodi:namedview>
+	<defs>
+
+		<inkscape:perspective  id="perspective158" inkscape:vp_z="33.875 : 16.9375 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 16.9375 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:persp3d-origin="16.9375 : 11.291667 : 1"></inkscape:perspective>
+
+		<inkscape:perspective  id="perspective3788" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:persp3d-origin="0.5 : 0.33333333 : 1"></inkscape:perspective>
+	</defs>
+	<g id="g3774" transform="translate(-0.20299404,8.7545305e-7)">
+		<g id="layer1"></g>
+
+		<circle id="circle5119" sodipodi:rx="15.333" sodipodi:cx="16.938" sodipodi:ry="15.333" sodipodi:cy="16.938" fill="#FFFFFF" stroke="#2C6DA3" stroke-width="1.7" cx="17.254" cy="17.026" r="15.333"></circle>
+
+		<circle id="circle5121" sodipodi:rx="12.5" sodipodi:cx="16.938" sodipodi:ry="12.5" sodipodi:cy="16.938" fill="transparent" stroke="#2C6DA3" stroke-width="1.7" cx="17.254" cy="17.026" r="12.5"></circle>
+		<polygon id="polygon2980" fill="transparent" stroke="#2C6DA3" stroke-width="23.5067" points="9.131,22.842 25.461,22.842
+		17.296,7.607 	"/>
+	</g>
+</svg>

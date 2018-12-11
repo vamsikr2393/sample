@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonita\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-24 05:07+0100\n"
+"PO-Revision-Date: 2018-06-04 21:47-0400\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/mobile.po\n"
+
+msgid "Above normal"
+msgstr "平均以上"
+
+msgid "Add a subtask"
+msgstr "サブタスクを追加"
+
+msgid "App name"
+msgstr "アプリ名"
+
+msgid "Apps"
+msgstr "アプリ"
+
+msgid "Archived"
+msgstr "完了済み"
+
+msgid "Archived date"
+msgstr "完了日時"
+
+msgid "Assign to"
+msgstr "アサイン先"
+
+msgid "Available tasks"
+msgstr "応受援タスク"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Case"
+msgstr "案件"
+
+msgid "Choose"
+msgstr "選択"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Create"
+msgstr "新規作成"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Details"
+msgstr "詳細情報"
+
+msgid "Do it"
+msgstr "実行する"
+
+msgid "Done"
+msgstr "遂行済み"
+
+msgid "Done by"
+msgstr "遂行者："
+
+msgid "Done on"
+msgstr "実行された日時"
+
+msgid "Due date"
+msgstr "期限"
+
+msgid "Executed"
+msgstr "遂行済み"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Installed by"
+msgstr "インストールした人"
+
+msgid "Installed on"
+msgstr "インストール日"
+
+msgid "Languages"
+msgstr "言語"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+msgid "Lowest"
+msgstr "最低"
+
+msgid "My cases"
+msgstr "私の案件"
+
+msgid "My tasks"
+msgstr "マイタスク"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "No data"
+msgstr "データがありません。"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Previous"
+msgstr "戻る"
+
+msgid "Priority"
+msgstr "優先度"
+
+msgid "Release"
+msgstr "手放す"
+
+msgid "Search Input"
+msgstr "検索入力"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start date"
+msgstr "起案日"
+
+msgid "Subtask"
+msgstr "サブタスク"
+
+msgid "Subtasks"
+msgstr "サブタスク"
+
+msgid "Take"
+msgstr "引き受ける"
+
+msgid "Tasks"
+msgstr "タスク"
+
+msgid "This service is offline for maintenance. Please try later."
+msgstr "このサービスは、保守のためオフラインです。後でやり直してください。"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "To do"
+msgstr "To do"
+
+msgid "Unable to log in. Please check your username and password."
+msgstr "ログインできません。ユーザー名とパスワードを確認してください。"
+
+msgid "Under normal"
+msgstr "平均以下"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "You are going to start a new case. No form is needed."
+msgstr "新しい案件を開始しようとしています。フォームは不要です。"
+

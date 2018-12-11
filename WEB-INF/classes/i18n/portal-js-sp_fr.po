@@ -1,0 +1,1381 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: bonita\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/portal-js-sp.pot\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2018-06-04 21:44-0400\n"
+
+msgid "{{membership.role_id.displayName}} of {{membership.group_id.displayName}}"
+msgstr "{{membership.role_id.displayName}} de {{membership.group_id.displayName}}"
+
+msgid "{} mapped"
+msgstr "{} associés"
+
+msgid "{} mapped to process manager profile"
+msgstr "{} associés au profil de Gestionnaire de processus"
+
+msgid "{} mappings to delete"
+msgstr "{} associés à supprimer"
+
+msgid "{} more"
+msgstr "{} autres"
+
+msgid "{} of {}"
+msgstr "{} de {}"
+
+msgid "{}-{} of {}"
+msgstr "{}-{} de {}"
+
+msgid "<br>For a cluster, run the request key generator script manually on each node in the cluster and then request the licenses (find more information in the Licenses documentation page)."
+msgstr "<br>Pour un cluster, exécutez le script qui génère la Request Key sur chaque nœud du cluster, puis générez les licences (pour plus di'nformations, consultez la page de documentation sur les licences (mot-clé \"licenses\"))."
+
+msgid "<strong>{{LicenseMonitoringCtrl.license.caseCounterLimit}}</strong> cases provisioned for the period <strong>{{ LicenseMonitoringCtrl.license.subscriptionStartTimestamp| dateI18n : 'LL'}}</strong> to <strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp| dateI18n : 'LL'}}</strong>.<br>"
+msgstr ""
+
+msgid "<strong>Unlimited cases</strong>"
+msgstr ""
+
+msgid "1 h."
+msgstr "1 h."
+
+msgid "1 min."
+msgstr "1 min."
+
+msgid "10 min."
+msgstr "10 min."
+
+msgid "30 min."
+msgstr "30 min."
+
+msgid "5 min."
+msgstr "5 min."
+
+msgid "Access control data have been successfully updated"
+msgstr "Les données de contrôle d'accès ont été mises à jour avec succès"
+
+msgid "Access control data will be permanently deleted."
+msgstr "Les données de contrôle d'accès vont être supprimées de manière définitive."
+
+msgid "Access control file has been successfully deleted."
+msgstr "Le fichier de contrôle d'accès a été supprimé avec succès."
+
+msgid "Access control file successfully updated"
+msgstr "Le fichier de contrôle d'accès a été mis à jour avec succès"
+
+msgid "Access control has not been updated because the format is invalid. You can edit the BDM access control file in Bonita Studio and validate it before trying again."
+msgstr "Le fichier de contrôle d’accès n’a pas été mis à jour, car le format n’est pas valide. Vous pouvez modifier le fichier de contrôle d’accès BDM dans Bonita Studio et valider avant de réessayer."
+
+msgid "Access control has not been updated because your session expired. Please log back in again and retry."
+msgstr "Le contrôle d’accès n’a pas été actualisé car votre session a expiré. Veuillez vous connecter à nouveau et réessayer."
+
+msgid "Access control has not been updated. System was not able to validate the provided BDM access control file for technical reason. You can try again later."
+msgstr "Le fichier de contrôle d’accès n’a pas été mis à jour. Le système n’était pas en mesure de valider le fichier fourni pour des raisons techniques. Vous pouvez réessayer plus tard."
+
+msgid "Access control has not been updated. System was not able to validate the provided BDM access control file for technical reasons. You can try again later."
+msgstr "Le fichier de contrôle d’accès n’a pas été mis à jour. Le système n’était pas en mesure de valider le fichier fourni pour des raisons techniques. Vous pouvez réessayer plus tard."
+
+msgid "Access control has not been uploaded. System was not able to upload the provided BDM access control file for technical reasons. You can try again later."
+msgstr "Le fichier de contrôle d’accès n’a pas été mis à jour. Le système n’était pas en mesure de valider le fichier fourni pour des raisons techniques. Vous pouvez réessayer plus tard."
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Activation state"
+msgstr "État d'activation"
+
+msgid "Actor name"
+msgstr "Nom de l'acteur"
+
+msgid "Actors"
+msgstr "Acteurs"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add from custom pages"
+msgstr "Ajouter une page parmi les pages personalisées"
+
+msgid "Add membership"
+msgstr "Ajouter une adhésion"
+
+msgid "Add menu"
+msgstr "Ajouter un menu"
+
+msgid "Add menu item"
+msgstr "Ajouter une option de menu"
+
+msgid "Add page"
+msgstr "Ajouter une page"
+
+msgid "Add pages in Navigation"
+msgstr "Ajouter des pages à la navigation"
+
+msgid "Add top-level menu"
+msgstr "Ajouter un menu "
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Aggregates tasks in states ready, waiting,<br>executing, completing, and initializing"
+msgstr "Regroupe les tâches en états ready, waiting,<br>executing, completing, et initializing"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "All done. Good job!"
+msgstr "Vous avez accompli toutes vos tâches. Bravo !"
+
+msgid "an application"
+msgstr "une application"
+
+msgid "an Application"
+msgstr "une application"
+
+msgid "An application is a customized environment for a specific user profile, in which users interact with business data and business processes in the most efficient way."
+msgstr "Une application est un environnement adapté à un profil particulier, dans lequel les utilisateurs interagissent avec les données et les processus métier avec une efficacité optimale."
+
+msgid "An Error occurred during BDM access control deletion."
+msgstr "Une erreur s'est produite lors de la suppression des contrôles d'accès du BDM."
+
+msgid "An error occurred when deploying the BDM. Consult the logs for more information."
+msgstr "Une erreur s’est produite lors du déploiement du Modèle de Données Métier (ou BDM).\n"
+"Pour plus d’informations, consultez les logs."
+
+msgid "application descriptor has been partially imported. The following items are not loaded in the Portal."
+msgstr "descripteur d'application a été partiellement importé. Les composants suivants n'ont pas été ajoutés dans le portail."
+
+msgid "application descriptor has been successfully imported, with complete page mapping and menu mapping."
+msgstr "descripteur d'application a été importé avec succès, avec son menu de navigation et les liens vers les pages utilisées."
+
+msgid "Application list"
+msgstr "Liste des applications"
+
+msgid "Application XML file"
+msgstr "Fichier XML de l'application"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Are you sure you want to delete this membership ?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer cette adhésion ?"
+
+msgid "Assign to me. Only I will be able to do it"
+msgstr "Me l'assigner. Je serai le seul en mesure de la faire"
+
+msgid "Assigned on"
+msgstr "Assignée le"
+
+msgid "Available or My tasks"
+msgstr "Disponible ou dans Mes tâches"
+
+msgid "Available tasks"
+msgstr "Tâches disponibles"
+
+msgid "back"
+msgstr "retour"
+
+msgid "Back"
+msgstr "Précédent"
+
+msgid "BDM access control file"
+msgstr "Fichier de contrôle d’accès au BDM"
+
+msgid "BDM access control file can now be installed."
+msgstr "Le fichier de contrôle d’accès du BDM peut maintenant être installé."
+
+msgid "BDM file"
+msgstr "Fichier du BDM"
+
+msgid "BDM successfully updated."
+msgstr "Le BDM a été mis à jour avec succès."
+
+msgid "Before updating the BDM, access control file should be deleted."
+msgstr "Avant de mettre à jour le BDM, le fichier de contrôle d’accès doit être supprimé."
+
+msgid "Before you can update a form mapping, you need to add the new form. To add it for this process only, upload it from the Form list tab"
+msgstr "Avant de mettre à jour le mapping d'un formulaire, vous devez déclarer le formulaire à associer. Pour le déclarer localement au niveau de ce processus, utilisez l'onglet Liste des formulaires"
+
+msgid "Before you import the application descriptor, the pages and the profile must already be loaded in the Portal."
+msgstr "Avant d'importer un descripteur d'application, déployez dans le portail les pages utilisées et le profil concerné par l'application."
+
+msgid "Bonita edition: <strong>{{LicenseMonitoringCtrl.license.edition}}</strong>"
+msgstr "Edition de Bonita : <strong>{{LicenseMonitoringCtrl.license.edition}}</strong>"
+
+msgid "Bonita uses Hibernate for data persistence, therefore some changes are handled well, like adding new objects or attributes, but some others we cannot guarantee so far, like changing the type of an attribute or deleting an attribute."
+msgstr "Bonita utilise Hibernate pour la persistance des données, c’est pourquoi certaines modifications sont supportées, comme l’ajout de nouveaux objets ou attributs, mais d'autres modifications ne sont pas supportées pour le moment, comme le changement de type d’un attribut ou la suppression d'un attribut."
+
+msgid "BPM Services must be paused. Go to \"BPM Services\" menu option."
+msgstr "Les services BPM doivent être mis en pause. Cliquez sur le menu « Services BPM »."
+
+msgid "Business card"
+msgstr "Carte de visite"
+
+msgid "Business Data Model access control"
+msgstr "Contrôle d’accès au Modèle de Données Métier (BDM)"
+
+msgid "Business Data Model definition"
+msgstr "Définition du Modèle de Données Métier (BDM)"
+
+msgid "Business objects or attributes will not be visible to the people in those profiles."
+msgstr "Les objets métier ou les attributs ne seront pas visibles pour les utilisateurs de ces profils."
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Case"
+msgstr "Cas"
+
+msgid "Case comments"
+msgstr "Commentaires du cas"
+
+msgid "Case counter"
+msgstr "Compteur des cas"
+
+msgid "Case ID"
+msgstr "Cas"
+
+msgid "Case list"
+msgstr "Liste des cas"
+
+msgid "Case overview"
+msgstr "Page de synthèse du cas"
+
+msgid "Case overview cannot be empty"
+msgstr "La page de synthèse du cas ne peut pas être vide"
+
+msgid "Case state"
+msgstr "Etat du cas"
+
+msgid "Case usage:"
+msgstr "Pourcentage des cas déjà démarrés :"
+
+msgid "Cases"
+msgstr "Cas"
+
+msgid "cases available."
+msgstr ""
+
+msgid "cases created so far"
+msgstr "cas créés jusqu'à présent"
+
+msgid "Cases with failures"
+msgstr "Cas avec erreurs"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Check that each entity has the relevant Process Manager profile in the Portal."
+msgstr "Vérifiez que chaque entité possède bien le profil Gestionnaire de Processus adéquat dans le Portal."
+
+msgid "Check that each entity is mapped to a profile, for either Bonita Portal or for applications you have created."
+msgstr "Vérifiez que chaque entité est associée à un profil, pour le Bonita Portal ou pour les applications que vous avez créées."
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Class name"
+msgstr "Nom de la classe"
+
+msgid "Cleaning the database from access control data can take some time."
+msgstr "La suppression des contrôles d'accès en base de données peut prendre un peu de temps."
+
+msgid "Click here to choose the .xml file"
+msgstr "Cliquez ici pour choisir le fichier .xml"
+
+msgid "Click here to choose your .xml file"
+msgstr "Cliquez ici pour choisir le fichier .xml"
+
+msgid "Click here to choose your .zip file"
+msgstr "Cliquez ici pour choisir le fichier .zip"
+
+msgid "Click here to choose your file (.zip)"
+msgstr "Cliquez ici pour choisir votre fichier (.zip)"
+
+msgid "Click here to go to Profile listing page"
+msgstr "Cliquez ici pour aller à la page de gestion des profils"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Comment:"
+msgstr "Commentaire :"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Configuration state"
+msgstr "Etat de la configuration"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Confirm new Password"
+msgstr "Confirmez le nouveau mot de passe"
+
+msgid "Connector zip file"
+msgstr "Fichier .zip du connecteur"
+
+msgid "Connectors"
+msgstr "Connecteurs"
+
+msgid "Copy to clipboard"
+msgstr "Copier dans le presse-papier"
+
+msgid "Counters include cases from root processes and cases started by call activities."
+msgstr "Les compteurs rendent compte à la fois des cas provenant de processus racines et des cas démarrés par des activités appelantes."
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "CPU information"
+msgstr "Informations sur les CPU utilisés"
+
+msgid "Create a new membership"
+msgstr "Créer une nouvelle adhésion"
+
+msgid "Create an application"
+msgstr "Créer une application"
+
+msgid "Created by"
+msgstr "Créé par"
+
+msgid "Creation"
+msgstr "Création"
+
+msgid "Creation date"
+msgstr "Créé le"
+
+msgid "Creation on"
+msgstr "Créée le"
+
+msgid "Current license"
+msgstr "Licence active"
+
+msgid "Custom information"
+msgstr "Informations spécifiques"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete access control file"
+msgstr "Supprimer le fichier de contrôle d’accès"
+
+msgid "Delete application"
+msgstr "Supprimer l'application"
+
+msgid "Delete membership"
+msgstr "Supprimer l'adhésion"
+
+msgid "Delete process"
+msgstr "Supprimer un processus"
+
+msgid "Delete the installed access control file"
+msgstr "Supprimer le fichier de contrôle d’accès actuellement installé"
+
+msgid "Delete the process"
+msgstr "Supprimer le processus"
+
+msgid "Depending on the size of the database, this may take quite some time and slow down users activity."
+msgstr "Selon la taille de la base de données, cela peut prendre un certain temps et ralentir l’activité des utilisateurs."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Diagram Key"
+msgstr "Légende du diagramme"
+
+msgid "Disabled, no new case can be started"
+msgstr "Désactivé, le démarrage de cas n'est plus possible"
+
+msgid "Display name"
+msgstr "Nom affiché"
+
+msgid "documentation"
+msgstr "documentation"
+
+msgid "Don't forget to start BPM Services again."
+msgstr "N’oubliez pas de redémarrer les Services BPM."
+
+msgid "Done tasks"
+msgstr "Tâches terminées"
+
+msgid "Due date"
+msgstr "Echéance"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit menu"
+msgstr "Editer l'option de menu"
+
+msgid "Edit menu item"
+msgstr "Editer l'option de menu"
+
+msgid "Email"
+msgstr "Courriel"
+
+msgid "Enable all"
+msgstr "Tout associer"
+
+msgid "End date"
+msgstr "Date de fin "
+
+msgid "Enter a new category name and press \"Enter\" key to create a new category and assign it to the current process."
+msgstr "Saisissez le nom de la nouvelle catégorie puis faites « Entrée » pour finaliser sa création et l'assigner au processus."
+
+msgid "Enter user"
+msgstr "Saisir l'utilisateur"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Error while installing BDM access control file'"
+msgstr "Erreur lors de l’installation du fichier de contrôle d’accès au BDM"
+
+msgid "Errors preventing the installation:"
+msgstr "Erreurs empêchant l’installation :"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export application descriptor"
+msgstr "Exporter le descripteur d’application"
+
+msgid "Export the installed access control file"
+msgstr "Exporter le fichier de contrôle d’accès actuellement installé"
+
+msgid "Failed Flow Nodes"
+msgstr "Flow nodes en erreur"
+
+msgid "filter scripts..."
+msgstr "Filtrer par nom de script..."
+
+msgid "Filters"
+msgstr "Filtres"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "Form cannot be empty"
+msgstr "Un formulaire ne peut pas être vide"
+
+msgid "Form list"
+msgstr "Liste des formulaires"
+
+msgid "Forms"
+msgstr "Formulaires"
+
+msgid "General"
+msgstr "Général"
+
+msgid "General information"
+msgstr "Informations générales"
+
+msgid "Groups"
+msgstr "Groupes"
+
+msgid "Healthy"
+msgstr "Sans erreur"
+
+msgid "Healthy cases"
+msgstr "Cas sans erreur"
+
+msgid "Hide menu"
+msgstr "Masquer le menu"
+
+msgid "Hide Menu"
+msgstr "Masquer le Menu"
+
+msgid "Hide panel"
+msgstr "Masquer le panneau"
+
+msgid "However, you can still install this file and then install the missing profiles."
+msgstr "Cependant, vous pouvez installer ce fichier maintenant et installer les profils manquants plus tard."
+
+msgid "However, you can still install this file."
+msgstr "Mais vous pouvez tout de même installer ce fichier."
+
+msgid "ID"
+msgstr "Id"
+
+msgid "If no form is needed, leave the field empty and apply"
+msgstr "Pour n'associer aucun formulaire, laissez le champ vide et validez"
+
+msgid "If the new BDM contains such changes, the database administrator will need to first handle the database update with scripts, then you will need to update only the data model and thoroughly test the changes."
+msgstr "Si le nouveau BDM contient ce type de changements, l’administrateur de base de données devra tout d’abord gérer la mise à jour de base de données avec des scripts, puis vous devrez mettre à jour uniquement le modèle de données et tester les changements minutieusement."
+
+msgid "If you do not specify a form or a URL, the case must be started programmatically."
+msgstr "Si vous ne spécifiez pas de formulaire ni d'URL, le cas devra être démarré par le système."
+
+msgid "If you do not specify a form or a URL, the task must be executed programmatically."
+msgstr "Si vous ne spécifiez pas de formulaire ni d'URL, la tâche devra être exécutée par le système."
+
+msgid "Implementation version"
+msgstr "Version de l'implémentation"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import an application"
+msgstr "Importer une application"
+
+msgid "Import an application descriptor"
+msgstr "Importer un descripteur d’application"
+
+msgid "In case of an update, all access control data will be overwritten in the BDM."
+msgstr "Dans le cas d’une mise à jour, toutes les données de contrôle d’accès seront remplacées dans le BDM."
+
+msgid "In task name column"
+msgstr "Dans la colonne \"Tâche\""
+
+msgid "In the following objects, the displayed rules are empty:"
+msgstr "Pour les objets suivants, les règles affichées sont vides :"
+
+msgid "In the following objects, the displayed rules do not grant access to any attribute:"
+msgstr "Pour les objets suivants, les règles affichées ne donnent accès à aucun attribut :"
+
+msgid "In the following objects, the displayed rules do not grant access to any profiles:"
+msgstr "Pour les objets suivants, les règles affichées ne donnent accès à aucun profile :"
+
+msgid "In the following objects, the displayed rules grant access to profiles that are not installed on the current platform:"
+msgstr "Pour les objets ci-dessous, les règles affichées accordent un accès à des profils qui ne sont pas installés sur la plateforme actuelle :"
+
+msgid "In the following objects, the displayed rules have the same name and apply to the same object:"
+msgstr "Pour les objets suivants, les règles affichées ont le même nom et s’appliquent au même objet :"
+
+msgid "In the following objects, the displayed rules reference attributes that are duplicated:"
+msgstr "Pour les objets suivants, les règles affichées référencent des attributs qui sont dupliqués :"
+
+msgid "In the following objects, the displayed rules reference attributes that do not exist in the deployed BDM:"
+msgstr "Pour les objets suivants, les règles affichées référencent des attributs qui n'existent pas dans le BDM qui est actuellement déployé :"
+
+msgid "In the following objects, the displayed rules reference profiles that are duplicated:"
+msgstr "Pour les objets suivants, les règles affichées référencent des profils qui sont dupliqués :"
+
+msgid "In the following objects, the object name and its name in the attribute wrapper are inconsistent:"
+msgstr "Pour les objets suivants, le nom de l’objet et son nom dans le wrapper d’attribut sont incompatibles :"
+
+msgid "In the menu <i>Organization > Manage</i>, go to the <i>Users</i> page of the wizard"
+msgstr "Dans le menu <i>Organisation > Gérer</i>, allez à la page <i>Utilisateurs</i> de l’assistant graphique"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Install a BDM access control file"
+msgstr "Installer un fichier de contrôle d’accès du BDM"
+
+msgid "Install a BDM file"
+msgstr "Installer un fichier BDM"
+
+msgid "Install an access control file"
+msgstr "Installer un fichier de contrôle d’accès au BDM"
+
+msgid "Install anyway"
+msgstr "Installer quand même"
+
+msgid "Install Business Data Model"
+msgstr "Installer le Modèle de Données Métier (BDM)"
+
+msgid "Installing Business Data Model"
+msgstr "Installation du Modèle de Données Métier (BDM)"
+
+msgid "Installing or updating the BDM implies to be logged in as Technical User, and to shut down all BPM services."
+msgstr "Installer ou mettre à jour le BDM nécessite d'être authentifié en tant qu'Utilisateur Technique et d'avoir mis en pause les services BPM."
+
+msgid "Instantiation"
+msgstr "Instanciation"
+
+msgid "Internal server error."
+msgstr "Erreur interne du serveur."
+
+msgid "Job title"
+msgstr "Intitulé du poste"
+
+msgid "Last login"
+msgstr "Dernière connexion"
+
+msgid "Last name"
+msgstr "Nom"
+
+msgid "Last update"
+msgstr "Dernière mise à jour"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Legacy"
+msgstr "6.x"
+
+msgid "License mode: <strong>{{LicenseMonitoringCtrl.license.licenseMode}}</strong>"
+msgstr "Type de licence : <strong>{{LicenseMonitoringCtrl.license.licenseMode}}</strong>"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Log in as platform administrator to see the license status. Only the platform administrator can access this information."
+msgstr "Connectez-vous en tant qu'administrateur de la plate-forme pour connaître l'état de la licence. Seul l'administrateur de la plate-forme peut accéder à ces informations."
+
+msgid "Login"
+msgstr "Se connecter"
+
+msgid "Look & Feel"
+msgstr "Look & Feel"
+
+msgid "Make both BDM and access control file consistent in order to install."
+msgstr "Vérifier la cohérence du BDM et des règles de contrôle d'accès pour installer."
+
+msgid "Make sure all artifacts enabled on the platform are compatible with the new BDM."
+msgstr "Assurez-vous que tous les artefacts activés sur la plate-forme soient compatibles avec le nouveau BDM."
+
+msgid "Make this task available to other team members again"
+msgstr "Libérer - rendre cette tâche à nouveau disponible pour les autres membres de l’équipe"
+
+msgid "Make this task personal: only I will be able to do it"
+msgstr "Rendre cette tâche personnelle : je serai le(la) seul(e) à pouvoir la faire"
+
+msgid "Manage Categories"
+msgstr "Gérer les catégories"
+
+msgid "Manager"
+msgstr "Responsable"
+
+msgid "Mapping"
+msgstr "Mapping"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid "Maximum size 255 characters"
+msgstr "Taille maximum de 255 caractères"
+
+msgid "Me"
+msgstr "Moi"
+
+msgid "Memberships"
+msgstr "Adhésions"
+
+msgid "MIN"
+msgstr "MIN"
+
+msgid "Mobile"
+msgstr "Portable"
+
+msgid "Monitor open cases"
+msgstr "Monitoring des cas en cours"
+
+msgid "Monitoring status"
+msgstr "Etat du monitoring"
+
+msgid "Multi-page menu"
+msgstr "Menu"
+
+msgid "My tasks"
+msgstr "Mes tâches"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New comment"
+msgstr "Nouveau commentaire"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No application available."
+msgstr "Aucune application définie."
+
+msgid "No cases to display"
+msgstr "Aucun cas à afficher"
+
+msgid "No comment on this case yet. To add one, use the input field at the bottom of this panel"
+msgstr "Aucun commentaire sur ce cas pour l'instant. Le champ de saisie se trouve en bas de ce panneau"
+
+msgid "No contract has been defined. The form or URL specified here must only execute the task and not send any data."
+msgstr "Aucun contrat n'a été défini. Le formulaire ou l'URL spécifié(e) ici doit uniquement exécuter la tâche et ne pas envoyer de données."
+
+msgid "No contract has been defined. The form or URL specified here must only start the case and not send any data."
+msgstr "Aucun contrat n'a été défini. Le formulaire ou l'URL spécifié(e) ici doit uniquement démarrer le cas et ne pas envoyer de données."
+
+msgid "No custom information defined."
+msgstr "Aucune information personnalisée n'a été définie."
+
+msgid "No description."
+msgstr "Aucune description disponible."
+
+msgid "No done task yet."
+msgstr "Aucune tâche accomplie pour l'instant."
+
+msgid "No form expected"
+msgstr "Formulaire non prévu"
+
+msgid "No form is needed. You can enter a comment and confirm."
+msgstr "Aucun formulaire à remplir. Vous pouvez saisir un commentaire et confirmer."
+
+msgid "No form mapped"
+msgstr "Formulaire manquant"
+
+msgid "No groovy script found"
+msgstr "Aucun script Groovy n'a été trouvé"
+
+msgid "No mapping"
+msgstr "Aucun mapping"
+
+msgid "No Mapping"
+msgstr "Aucun mapping"
+
+msgid "No profile mapped to this application"
+msgstr "Cette application n'a pas de profil associé"
+
+msgid "No value"
+msgstr "Aucune valeur"
+
+msgid "Non-blocking warnings:"
+msgstr "Avertissements non bloquants :"
+
+msgid "Note that updating the model modifies existing database tables definitively."
+msgstr "Notez que la mise à jour du modèle modifie de manière définitive les tables de la base de données."
+
+msgid "of"
+msgstr "de"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "One or more connectors on case start or case end failed"
+msgstr "Un ou plusieurs connecteurs, en démarrage ou en fin de cas, sont en erreur"
+
+msgid "One-page menu"
+msgstr "Lien vers une page"
+
+msgid "Only cases from root processes are displayed in the table below. No details are available for cases started by call activities."
+msgstr "Le tableau ci-dessous affiche uniquement les cas provenant de processus racines. Le détail des cas démarrés par des activités appelantes n'est pas disponible."
+
+msgid "Only I can do this task"
+msgstr "Je suis le seul en mesure de faire cette tâche"
+
+msgid "Only one Business Data Model (BDM) can be active at a time."
+msgstr "Il ne peut y avoir qu'un seul Modèle de Données Métier (BDM) actif à la fois."
+
+msgid "Open cases"
+msgstr "Cas démarrés"
+
+msgid "Open in a popup"
+msgstr "Ouvrir dans une pop-up"
+
+msgid "Open the task to perform it"
+msgstr "Ouvrez la tâche pour l'exécuter"
+
+msgid "Other issue."
+msgstr "Autre problème."
+
+msgid "Overview"
+msgstr "Synthèse"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Page zip file"
+msgstr "Le ficher .zip de la page ou du formulaire"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Passwords don't match"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "Pending Flow Nodes"
+msgstr "Flow nodes en attente"
+
+msgid "Personal information"
+msgstr "Informations personnelles"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Platform administrator login"
+msgstr "Login - Administrateur de la plate-forme"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Process"
+msgstr "Processus"
+
+msgid "Process enabled"
+msgstr "Processus activé"
+
+msgid "Process list"
+msgstr "Liste des processus"
+
+msgid "Process Manager mapping"
+msgstr "Désignation des Gestionnaires de processus"
+
+msgid "Process name"
+msgstr "Nom du processus"
+
+msgid "Process version"
+msgstr "Version du processus"
+
+msgid "Process:"
+msgstr "Processus :"
+
+msgid "Profile"
+msgstr "Profils"
+
+msgid "Profiles"
+msgstr "Profils"
+
+msgid "Profiles / Memberships"
+msgstr "Profils / adhésions"
+
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+msgid "Refresh data"
+msgstr "Actualiser les données"
+
+msgid "Release"
+msgstr "Liberer"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Remove all"
+msgstr "Tout supprimer"
+
+msgid "Renewal"
+msgstr "Renouvellement"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Return Type : {}"
+msgstr "Type de retour: {}"
+
+msgid "Roles"
+msgstr "Rôles"
+
+msgid "Rule names should be unique."
+msgstr "Les noms de ces règles doivent être uniques."
+
+msgid "Rules on objects that compose others must be defined at their \"parent\" object level."
+msgstr "Les règles sur les objets qui composent d'autres objets doivent être définies au niveau de leur objet \"parent\"."
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Scripts"
+msgstr "Scripts"
+
+msgid "Search Key 1"
+msgstr "Clé de recherche 1"
+
+msgid "Search Key 2"
+msgstr "Clé de recherche 2"
+
+msgid "Search Key 3"
+msgstr "Clé de recherche 3"
+
+msgid "Search Key 4"
+msgstr "Clé de recherche 4"
+
+msgid "Search Key 5"
+msgstr "Clé de recherche 5"
+
+msgid "Search..."
+msgstr "Chercher..."
+
+msgid "Select the <i>User information management</i> tab to add <i>Custom information</i> on the right"
+msgstr "Sélectionnez l’onglet <i>Gestion des informations utilisateur</i> pour ajouter des <i>informations spécifiques</i> sur la droite"
+
+msgid "Select the entities (users, groups, roles, memberships) to map to the actors. These entities will do the human tasks in the process."
+msgstr "Sélectionnez les entités (utilisateurs, groupes, rôles, adhésions) à associer aux acteurs. Ces entités exécuteront les tâches \"humaines\" du processus."
+
+msgid "Select the entities (users, groups, roles, memberships) who will supervise this process."
+msgstr "Sélectionnez les entités (utilisateurs, groupes, rôles, adhésions), qui superviseront ce processus."
+
+msgid "Select the page"
+msgstr "Sélectionnez la page"
+
+msgid "Set as Home page"
+msgstr "Définir en tant que page d'accueil"
+
+msgid "Show"
+msgstr "Afficher"
+
+msgid "Show all the tasks I can do: both personal tasks and tasks available to other team members"
+msgstr "Afficher toutes les tâches que je peux faire : mes tâches personnelles et les tâches disponibles pour moi et les autres membres de l’équipe"
+
+msgid "Show available tasks in task list for archived case"
+msgstr "Afficher les tâches disponibles dans la liste des tâches pour les cas archivés"
+
+msgid "Show available tasks in task list for case"
+msgstr "Afficher les tâches disponibles dans la liste des tâches pour le cas"
+
+msgid "Show key"
+msgstr "Voir la légende"
+
+msgid "Show menu"
+msgstr "Afficher le menu"
+
+msgid "Show Menu"
+msgstr "Afficher le Menu"
+
+msgid "Show my personal tasks: the ones I took and the ones assigned to me, automatically or by a process manager"
+msgstr "Afficher mes tâches personnelles : celles que j’ai prises et celles qui m'ont été assignées, automatiquement ou par un gestionnaire de processus"
+
+msgid "Show panel"
+msgstr "Afficher le panneau"
+
+msgid "Show the tasks that I have done"
+msgstr "Afficher les tâches que j’ai faites"
+
+msgid "sort by Cases with failures ascending"
+msgstr "tri par Cas avec erreurs, croissant"
+
+msgid "sort by Cases with failures descending"
+msgstr "tri par Cas avec erreurs, décroissant"
+
+msgid "sort by End date ascending"
+msgstr "tri par Date de fin, croissant"
+
+msgid "sort by End date descending"
+msgstr "tri par Date de fin, décroissant"
+
+msgid "sort by Healthy cases ascending"
+msgstr "tri par Cas sans erreur, croissant"
+
+msgid "sort by Healthy cases descending"
+msgstr "tri par Cas sans erreur, décroissant"
+
+msgid "sort by ID ascending"
+msgstr "tri par Id, croissant"
+
+msgid "sort by ID descending"
+msgstr "tri par Id, décroissant"
+
+msgid "Sort by name"
+msgstr "Trier par nom"
+
+msgid "sort by Open cases ascending"
+msgstr "tri par Cas en cours, croissant"
+
+msgid "sort by Open cases descending"
+msgstr "tri par Cas en cours, décroissant"
+
+msgid "sort by Process name ascending"
+msgstr "tri par Nom du Processus, croissant"
+
+msgid "sort by Process name descending"
+msgstr "tri par Nom du Processus, décroissant"
+
+msgid "sort by Start date ascending"
+msgstr "tri par Date de début, croissant"
+
+msgid "sort by Start date descending"
+msgstr "tri par Date de début, décroissant"
+
+msgid "sort by State ascending"
+msgstr "tri par Etat, croissant"
+
+msgid "sort by State descending"
+msgstr "tri par Etat, décroissant"
+
+msgid "Sort by updated on"
+msgstr "Trier par date de mise à jour"
+
+msgid "Sort by URL"
+msgstr "Trier par URL"
+
+msgid "Sort by version"
+msgstr "Trier par version"
+
+msgid "sort by Version ascending"
+msgstr "tri par Version, croissant"
+
+msgid "sort by Version descending"
+msgstr "tri par Version, décroissant"
+
+msgid "Specify an imported form or a URL"
+msgstr "Spécifiez une URL ou un formulaire"
+
+msgid "Specify the menu structure."
+msgstr "Définir le menu de navigation."
+
+msgid "Start date"
+msgstr "Débuté le"
+
+msgid "Started by"
+msgstr "Démarré par"
+
+msgid "State"
+msgstr "Etat"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Status of importation"
+msgstr "Statut de l'importation"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Subscription"
+msgstr ""
+
+msgid "Take"
+msgstr "Prendre"
+
+msgid "Task form"
+msgstr "Formulaire de tâche"
+
+msgid "Task Id"
+msgstr "ID de tâche"
+
+msgid "Task list"
+msgstr "Liste de tâches"
+
+msgid "Task name"
+msgstr "Tâche"
+
+msgid "Task1"
+msgstr "Tâche1"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "The application"
+msgstr "L'application"
+
+msgid "The BDM needs to be installed."
+msgstr "Le BDM doit être installé."
+
+msgid "The case counter will be reset when your subscription expires (<strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp|dateI18n : 'LL'}}</strong>)."
+msgstr ""
+
+msgid "The case is archived. You cannot add comments anymore"
+msgstr "Le cas est archivé. Il n'est plus possible d'ajouter de nouveaux commentaires"
+
+msgid "The current process has no connectors defined."
+msgstr "Aucun connecteur n'a été défini pour ce processus."
+
+msgid "The current process has no forms deployed."
+msgstr "Aucun formulaire n'a été associé à ce processus."
+
+msgid "The current process has no parameters defined."
+msgstr "Aucun paramètre n'a été défini pour ce processus."
+
+msgid "The current process has no tasks defined."
+msgstr "Ce processus ne comporte aucune tâche humaine."
+
+msgid "The deleted case will be permanently deleted and will not be stored in the archives."
+msgstr "Le cas supprimés le seront définitivement et ne seront pas stockés dans les archives."
+
+msgid "The deleted case will be permanently deleted from the archives."
+msgstr "Le cas supprimé sera définitivement supprimé des archives."
+
+msgid "The following business objects are referenced in the displayed rules but they do not exist in the deployed BDM:"
+msgstr "Les objets métier suivants sont référencés par les règles affichées, mais ils n’existent pas dans le BDM déployé :"
+
+msgid "The following business objects have no access control rules defined:"
+msgstr "Les objets métier suivants n’ont pas de règle de contrôle d’accès :"
+
+msgid "The following objects are linked to other objects with a composition relationship but they also have direct rules defined:"
+msgstr "Les objets suivants sont liés à d'autres par une relation de composition mais ont également une ou plusieurs règle(s) définie(s) directement :"
+
+msgid "The following objects are linked to other objects with a composition relationship in the access control file, but they are not so in the BDM:"
+msgstr "Les objets suivants sont liés à d'autre par une relation de composition dans le fichier de contrôle d'accès mais pas dans le BDM :"
+
+msgid "The page allows users with relevant profiles to access the following permissions:"
+msgstr "La page donne aux profils utilisateurs concernés les autorisations suivantes :"
+
+msgid "The page archive (.zip file) must contain page.properties, either the index.html or the Index.groovy file, and the resources needed for the page. For details, see the documentation or the example page readme (available in the custom page list)."
+msgstr "L'archive de la page (.zip) doit contenir le fichier page.properties, puis soit le fichier index.html soit le fichier Index.groovy, et enfin les ressources nécessaires pour la page ou le formulaire. Pour plus d'informations, consultez la documentation ou le fichier readme de la page d'exemple (menu Ressources)."
+
+msgid "The Process cannot be enabled"
+msgstr "Le processus ne peut être activé"
+
+msgid "Theme"
+msgstr " Thème"
+
+msgid "Then for each user, fill out the custom information value, in the Studio (<i>List of users</i> tab of the organization), or right on this Portal page."
+msgstr "Puis pour chaque utilisateur, remplissez la valeur des informations spécifiques, soit dans le studio (onglet <i>Liste des utilisateurs</i> de l’organisation), ou directement sur cette page du portail."
+
+msgid "There is no Business Data Model installed. Install a BDM and then install the Access Control rules."
+msgstr "Aucun Modèle de Données Métier installé. Installez un BDM puis installez les règles de contrôle d'accès."
+
+msgid "These deleted cases will be permanently deleted and will not be stored in the archives."
+msgstr "Ces cas supprimés le seront définitivement et ne seront pas stockés dans les archives."
+
+msgid "These deleted cases will be permanently deleted from the archives."
+msgstr "Ces cas supprimés disparaîtront définitivement des archives."
+
+msgid "They must be fixed in the xml file in order to install."
+msgstr "Ils doivent être corrigés dans le fichier xml pour pouvoir installer."
+
+msgid "They will not be accessible by anyone."
+msgstr "Personne ne pourra y avoir accès."
+
+msgid "This access control file cannot be installed with current BDM."
+msgstr "Ce fichier de contrôle d'accès ne peut pas être installé avec le BDM actuel."
+
+msgid "This is the task details panel. No information to display"
+msgstr "Cette zone est dédiée aux détails d'une tâche. Aucune information à afficher pour l'instant"
+
+msgid "This must be fixed in the file in order to install."
+msgstr "Ils doivent être corrigés dans le fichier pour pouvoir installer."
+
+msgid "This page has no authorization permissions defined. If the page uses REST resources and authorization checking is activated,\\n update the page definition to specify the list of resources used."
+msgstr "Aucune autorisation n'est définie pour cette page. Si elle utilise des ressources REST et que la vérification d'autorisation est activée, \\n mettez à jour la définition de la page afin de spécifier la liste des ressources utilisées."
+
+msgid "This prevents the correct execution of the rules."
+msgstr "Les règles ne pourront pas s'exécuter correctement."
+
+msgid "This task is completed."
+msgstr "Cette tâche est terminée."
+
+msgid "Those business objects will not be accessible by anyone."
+msgstr "Personne ne pourra accéder à ces Objets Métiers."
+
+msgid "Those business objects will not be accessible through those rules."
+msgstr "Ces règles n'accorderont aucun accès à ces objets."
+
+msgid "Those rule names must be fixed in order to install."
+msgstr "Le nom de ces règles doit être corrigé pour pouvoir installer."
+
+msgid "Those rules must be fixed in order to install."
+msgstr "Ces règles doivent être corrigées pour pouvoir installer."
+
+msgid "Those rules must be fixed or you need to update the BDM on the platform in order to install."
+msgstr "Les règles suivantes doivent être corrigées ou le BDM doit être mis à jour sur la plate-forme pour pouvoir installer."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "To add it at tenant level, so it can be used in more than one process or task, add the form as a resource"
+msgstr "Pour l'ajouter au niveau global et lui permettre d'être utilisé par plusieurs processus ou tâches, ajoutez le formulaire en tant que ressource"
+
+msgid "To create an application, click New or Import."
+msgstr "Pour créer une application, cliquez sur Nouveau ou Importer."
+
+msgid "To do"
+msgstr "À faire"
+
+msgid "To do so, go to"
+msgstr "Pour cela, consultez la page"
+
+msgid "To do so, go to Bonita Studio <i>\"Development\" > \"Business Data\" > \"BDM access control\" > \"Define\"</i> menu"
+msgstr "Pour cela, allez dans le menu <i>\"Développement\" > \"Modèle de Données Métier\" > \"Contrôle d'accès\" > \"Définir\"</i> du Bonita Studio"
+
+msgid "To do so, log out and then log back in as the Technical User, whose credentials are set upon Bonita platform installation."
+msgstr "Pour cela, déconnectez-vous puis connectez-vous en tant qu’utilisateur technique, dont les informations de connexion sont définies à l’installation de la plate-forme Bonita."
+
+msgid "To fill out the form, you need to take this task. This means you will be the only one able to do it. To make it available to the team again, release it."
+msgstr "Pour remplir le formulaire, vous devez \"prendre\" cette tâche. Cela signifie que vous serez le(la) seul(e) à pouvoir la faire. Pour la rendre à nouveau disponible à l'équipe, \"libérez\"-la."
+
+msgid "To know more about this platform configuration option, go to the"
+msgstr "Pour en savoir plus sur cette option de configuration de plate-forme, allez à la"
+
+msgid "To personalize the display of search keys (and columns in general), use the table settings button on the right. You can search on up to 5 search keys."
+msgstr "Pour personnaliser l'affichage des clés de recherche (et des colonnes en général), utilisez le bouton Paramètres du tableau sur la droite. Vous pouvez effectuer des recherches sur les valeurs des clés (entre 1 et 5 clés)."
+
+msgid "To protect data stored in the BDM, you can define access control rules on business objects attributes."
+msgstr "Pour protéger les données stockées dans le BDM, vous pouvez définir des règles de contrôle d'accès sur les attributs des objets métiers."
+
+msgid "To provision more cases, contact your sales person."
+msgstr "Pour provisionner plus de cas, contactez votre responsable commercial."
+
+msgid "To renew the license for this system, copy the request key below and go to the Customer Portal or contact your sales person."
+msgstr "Pour renouveler la licence de ce système, copiez la Request Key ci-dessous puis utilisez-la dans la partie \"licenses\" du Customer Portal, ou contactez votre account manager chez Bonitasoft."
+
+msgid "Totals"
+msgstr "Totaux"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type in a case id and <br> press enter to search for <br> human task of a specific case"
+msgstr "Saisissez un Id de cas puis <br> tapez entrée pour lister <br> les tâches de ce cas"
+
+msgid "Unable to log in. Please check your username and password."
+msgstr "Impossible de se connecter. Veuillez vérifier votre nom d'utilisateur et le mot de passe."
+
+msgid "Unassign. This will make it available to team again"
+msgstr "Désassigner. Cela la rendra à nouveau disponible pour les membres de l'équipe"
+
+msgid "Undefined"
+msgstr "Indéfini"
+
+msgid "Update"
+msgstr "Mise à jour"
+
+msgid "Update an access control file"
+msgstr "Mettre à jour un fichier de contrôle d’accès"
+
+msgid "Update business card"
+msgstr "Mettre à jour la carte de visite"
+
+msgid "Update Business Data Model"
+msgstr "Mettre à jour le Modèle de Données Métier (BDM)"
+
+msgid "Update content of script {}"
+msgstr "Mettre à jour le contenu du script {}"
+
+msgid "Update custom information"
+msgstr "Mettre à jour les informations spécifiques"
+
+msgid "Update general information"
+msgstr "Mettre à jour les informations générales"
+
+msgid "Update password"
+msgstr "Mettre à jour le mot de passe"
+
+msgid "Update personal information"
+msgstr "Mettre à jour les informations personnelles"
+
+msgid "Updated by"
+msgstr "Mise à jour par"
+
+msgid "Updated on"
+msgstr "Mise à jour le"
+
+msgid "Upload new Page"
+msgstr "Charger (formulaire ou page)"
+
+msgid "Upload new picture"
+msgstr "Modifier l'image"
+
+msgid "Upload new version of {}"
+msgstr "Charger la nouvelle version de {}"
+
+msgid "Upload new version of the connector"
+msgstr "Charger la nouvelle version du connecteur"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Use Arrow up and Arrow down keys to browse among existing categories."
+msgstr "Utilisez les flèches haut et bas du clavier pour parcourir la liste des catégories existantes."
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "username:"
+msgstr "nom d'utilisateur :"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Validation Status"
+msgstr "Statut de validation"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View case design"
+msgstr "Voir la modélisation du cas"
+
+msgid "View case details"
+msgstr "Voir les détails du cas"
+
+msgid "View case list"
+msgstr "Voir la liste des cas"
+
+msgid "View case overview"
+msgstr "Afficher la page de synthèse du cas"
+
+msgid "View diagram"
+msgstr "Voir le diagramme"
+
+msgid "View task"
+msgstr "Voir la tâche"
+
+msgid "View this task"
+msgstr "Voir cette tâche"
+
+msgid "Warning :"
+msgstr "Avertissement :"
+
+msgid "Warning:"
+msgstr "Attention :"
+
+msgid "We couldn't find what you are looking for."
+msgstr "Nous n'avons pas trouvé ce que vous recherchez."
+
+msgid "When you export an application descriptor, pages and profiles are not exported in the file."
+msgstr "Lorsque vous exportez un descripteur d'application, les pages et profil associés ne sont pas exportés dans le fichier."
+
+msgid "will be permanently deleted."
+msgstr "va être supprimée définitivement"
+
+msgid "With failures"
+msgstr "Avec erreurs"
+
+msgid "with some warnings"
+msgstr "avec des avertissements"
+
+msgid "X is the number of Flow Node instances"
+msgstr "X est le nombre d'instances de Flow Nodes"
+
+msgid "You are about to export the descriptor of the application"
+msgstr "Vous êtes sur le point d'exporter le descripteur de l'application"
+
+msgid "You can consult the logs for more information."
+msgstr "Vous pouvez consulter les logs pour plus d’informations."
+
+msgid "You can create custom information in Bonita Studio:"
+msgstr "Vous pouvez créer des informations spécifiques dans Bonita Studio :"
+
+msgid "You must add a page before you can reference it in a menu."
+msgstr "Vous devez ajouter une page avant de pouvoir la référencer dans un menu."
+
+msgid "Your current license permits you to use {{LicenseMonitoringCtrl.license.numberOfCPUCores}} cores."
+msgstr "Votre licence actuelle vous permet d'utiliser {{LicenseMonitoringCtrl.license.numberOfCPUCores}} coeurs de CPU."
+
+msgid "Your license expires <strong>{{ LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateAgo }}</strong>, on <strong>{{LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateI18n : 'LL'}}</strong>."
+msgstr "Votre licence expire dans <strong>{{LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateAgo }}</strong>, le <strong>{{LicenseMonitoringCtrl.license.licenseExpirationTimestamp | dateI18n : 'LL'}}</strong>."
+
+msgid "Your personal task list is empty. You can take a task from the ​<a href=\"#\" ng-click=\"changeFilter(TASK_FILTERS.TODO)\">To do</a> list."
+msgstr "Votre liste de tâches personnelles est vide. Vous pouvez prendre une tâche dans la liste <a href=\"#\" ng-click=\"changeFilter(TASK_FILTERS.TODO)\">A faire</a>."
+
+msgid "Your subscription expires on <strong>{{LicenseMonitoringCtrl.license.subscriptionEndTimestamp|dateI18n : 'LL'}}</strong>."
+msgstr ""
+
+msgid "Zip code"
+msgstr "Code postal"
+

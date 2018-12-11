@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonita\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-02 05:07+0200\n"
+"PO-Revision-Date: 2018-06-04 21:47-0400\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/portal-sp.po\n"
+
+msgid " To do so, go to %profilelink%."
+msgstr "そうするには、%profilelink% に進みます。"
+
+msgid " for "
+msgstr " 対象: "
+
+msgid "%% - Add Pages"
+msgstr "%% - のページを追加"
+
+msgid "%% - Create menu"
+msgstr "%% - メニューを作成します"
+
+msgid "%firstname% %lastname%"
+msgstr "%firstname% %lastname%"
+
+msgid "%groupname%"
+msgstr "%groupname%"
+
+msgid "%rolename%"
+msgstr "%rolename%"
+
+msgid "%rolename% of %groupname%"
+msgstr "%groupname% の %rolename% "
+
+msgid "<br/>"
+msgstr "<br/>"
+
+msgid "A profile includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal.<br/>When you import a profile, it overwrites any existing profile with the same name."
+msgstr "プロファイルにはページと組織へのマッピングが含まれています。 <br/>プロファイルをインポートする前に、マップされたページと組織がポータルに既に読み込まれていなければなりません。 <br/>プロファイルをインポートすると、同じ名前を持つ既存のプロファイルを上書きします。"
+
+msgid "A report archive has a .zip extension"
+msgstr "レポート アーカイブは、.zip の拡張子を持っています。"
+
+msgid "Aborted"
+msgstr "中止された"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add Comment"
+msgstr "コメントを追加します"
+
+msgid "Add Profiles"
+msgstr "プロファイルを追加"
+
+msgid "Add a Role"
+msgstr "役割を追加します。"
+
+msgid "Add a comment"
+msgstr "コメントを追加します"
+
+msgid "Add a group"
+msgstr "グループを追加"
+
+msgid "Add a group to Process Manager"
+msgstr "プロセス管理者にグループを追加"
+
+msgid "Add a membership"
+msgstr "所属を追加"
+
+msgid "Add a membership to Process Manager"
+msgstr "プロセス管理者に所属を追加"
+
+msgid "Add a role"
+msgstr "役割を追加"
+
+msgid "Add a role to Process Manager"
+msgstr "プロセス管理者に役割を追加"
+
+msgid "Add a subtask"
+msgstr "サブタスクを追加"
+
+msgid "Add a user"
+msgstr "ユーザーを追加"
+
+msgid "Add a user to Process Manager"
+msgstr "プロセス管理者にユーザーを追加"
+
+msgid "Add page"
+msgstr "ページを追加"
+
+msgid "Add selected page(s) to this profile"
+msgstr "このプロファイルを選択したページを追加"
+
+msgid "Add this group to Process Manager"
+msgstr "プロセス管理者にこのグループを追加"
+
+msgid "Add this membership to Process Manager"
+msgstr "プロセス管理者にこの所属を追加"
+
+msgid "Add this role to Process Manager"
+msgstr "プロセス管理者にこの役割を追加"
+
+msgid "Add this user to Process Manager"
+msgstr "プロセス管理者にこのユーザーを追加"
+
+msgid "Add you comment"
+msgstr "あなたのコメントを追加します。"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "An error has occurred on connector %name%"
+msgstr "コネクタ %name% でエラーが発生しました"
+
+msgid "An error occured, please check your .zip file structure."
+msgstr "エラーが発生しました。.Zip ファイルの構造を確認してください。"
+
+msgid "An error occurred, please check your .zip file structure."
+msgstr "エラーが発生しました。.Zip ファイルの構造を確認してください。"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Archived"
+msgstr "完了済み"
+
+msgid "Archived date"
+msgstr "完了日時"
+
+msgid "Are you sure you want to remove the selected Process Manager(s) for this process?"
+msgstr "このアプリケーションに対し選択したプロセス管理者を削除してもよろしいですか？"
+
+msgid "Assign to"
+msgstr "アサイン先"
+
+msgid "Available menu pages"
+msgstr "使用可能なメニュー ページ"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Business Data Model: %ok_ko%"
+msgstr "ビジネス データ モデル: %ok_ko%"
+
+msgid "By %user%"
+msgstr "担当： %user%"
+
+msgid "CANCEL"
+msgstr "キャンセル"
+
+msgid "Can't import profiles. A profile with name %name% already exists."
+msgstr "プロファイルをインポートできません。名前： %name% を持つプロファイルが既に存在します。"
+
+msgid "Can't import profiles. Please check that your file is well-formed"
+msgstr "プロファイルをインポートできません。あなたのファイル形式を確認してください。"
+
+msgid "Can't install access control: format is invalid."
+msgstr "アクセス制御をインストールできません： 形式が無効です。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancelled"
+msgstr "キャンセルされた"
+
+msgid "Case id"
+msgstr "案件ID"
+
+msgid "Case id: "
+msgstr "案件ID:"
+
+msgid "Cases"
+msgstr "案件"
+
+msgid "Cases "
+msgstr "案件"
+
+msgid "Cases started or worked on by someone"
+msgstr "誰かによって開始、または作業された案件"
+
+msgid "Check that each entity has the relevant Process Manager profile in the Portal."
+msgstr "ポータル内に各エンティティに関連するプロセス管理者プロファイルがあるか確認してください。"
+
+msgid "Click here for more details"
+msgstr "詳細は、ここをクリックしてください"
+
+msgid "Click here to go to Profile listing page"
+msgstr "ページ上のプロファイルに移動するにはここをクリックします"
+
+msgid "Click to export the current Look & Feel"
+msgstr "現在のルック＆フィールをエクスポートするには、ここ をクリックします"
+
+msgid "Click to export the default Look & Feel"
+msgstr "デフォルトのルック＆フィールをエクスポートするには、ここをクリックします"
+
+msgid "Click to restore the default Look & Feel"
+msgstr "デフォルトのルック＆フィールを復元するには、ここをクリックします"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Close the popup"
+msgstr "ポップアップを閉じる"
+
+msgid "Close without executing the operation"
+msgstr "処理を実行せずに閉じます"
+
+msgid "Close without saving"
+msgstr "保存せずに閉じる"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Confirm export"
+msgstr "エクスポートを確認します"
+
+msgid "Confirm navigation bar reset?"
+msgstr "ナビゲーション・バーのリセットを確認？"
+
+msgid "Confirm removal"
+msgstr "削除を確認"
+
+msgid "Confirm removing?"
+msgstr "削除の確認？"
+
+msgid "Connector implemenation"
+msgstr "コネクタの実装"
+
+msgid "Connectors executed: "
+msgstr "実行されたコネクタ:"
+
+msgid "Connectors failed: "
+msgstr "失敗したコネクタ："
+
+msgid "Connectors to be executed: "
+msgstr "実行されるべきコネクタ:"
+
+msgid "Content"
+msgstr "コンテンツ"
+
+msgid "Create"
+msgstr "新規作成"
+
+msgid "Create a profile"
+msgstr "プロファイルを作成"
+
+msgid "Create menu"
+msgstr "メニューを作成"
+
+msgid "Create portal menus and manage pages in the menus. Custom pages are marked with this icon"
+msgstr "ポータル メニューを作成して、メニュー内のページを管理します。カスタム ページにはこのアイコンが付けられます。"
+
+msgid "Create this profile"
+msgstr "このプロファイルを作成"
+
+msgid "Created"
+msgstr "作成済み"
+
+msgid "Created by"
+msgstr "作成者"
+
+msgid "Created on"
+msgstr "作成日時:"
+
+msgid "Current menu pages"
+msgstr "現在のメニュー ページ"
+
+msgid "Custom pages"
+msgstr "カスタム ページ"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Default pages"
+msgstr "デフォルトページ"
+
+msgid "Deletable"
+msgstr "削除可能"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete Profile %profileName%"
+msgstr "プロファイル： %profileName% を削除"
+
+msgid "Delete selected cases"
+msgstr "選択した案件を削除"
+
+msgid "Delete selected reports"
+msgstr "選択したレポートを削除します"
+
+msgid "Delete the empty menu"
+msgstr "空のメニューを削除"
+
+msgid "Delete the menu"
+msgstr "メニューを削除"
+
+msgid "Delete the profile"
+msgstr "プロファイルを削除"
+
+msgid "Delete the profile '%profileName%'?"
+msgstr "プロファイル：'%profileName%' を削除しますか？"
+
+msgid "Delete this entry"
+msgstr "このエントリを削除"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Description of the process parameter"
+msgstr "プロセス パラメータの説明"
+
+msgid "Description of your report"
+msgstr "レポートの説明"
+
+msgid "Description:"
+msgstr "説明："
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Discuss :"
+msgstr "意見交換："
+
+msgid "Display a summary of all reports"
+msgstr "すべてのレポートの要約を表示します。"
+
+msgid "Display name"
+msgstr "表示名"
+
+msgid "Do for"
+msgstr "代役をする"
+
+msgid "Do it"
+msgstr "実行する"
+
+msgid "Do not restore the default Look & Feel."
+msgstr "デフォルトのルック＆フィールを復元しないでください。"
+
+msgid "Do the task for"
+msgstr "タスクを実行"
+
+msgid "Do this task for"
+msgstr "このタスクを実行"
+
+msgid "Do you want to delete this menu ?"
+msgstr "このメニューを削除しますか？"
+
+msgid "Do you want to remove the page '%pageName%'?"
+msgstr "ページ '%pageName%' を削除しますか？"
+
+msgid "Done"
+msgstr "遂行済み"
+
+msgid "Done by"
+msgstr "遂行者："
+
+msgid "Done on %date%"
+msgstr "%date% に遂行済み"
+
+msgid "Done on:"
+msgstr "実行された日時："
+
+msgid "Done subtasks"
+msgstr "完了済みサブタスク"
+
+msgid "Done/started by First name"
+msgstr "First nameで行われてた/開始された"
+
+msgid "Done/started by Last name"
+msgstr "Last nameによって行われてた/開始された"
+
+msgid "Done/started by Username"
+msgstr "Usernameによって行われてた/開始された"
+
+msgid "Due Time"
+msgstr "期限"
+
+msgid "Due date"
+msgstr "期限"
+
+msgid "Due in:"
+msgstr "期限："
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit Process Managers"
+msgstr "プロセス管理者を編集"
+
+msgid "Edit a profile"
+msgstr "プロファイルを編集"
+
+msgid "Edit connector implementation"
+msgstr "コネクタの実装を編集"
+
+msgid "Edit menu entry"
+msgstr "メニュー エントリを編集"
+
+msgid "Edit parameter"
+msgstr "パラメータを編集します。"
+
+msgid "Edit process variable"
+msgstr "プロセス変数を編集します。"
+
+msgid "Edit the profile"
+msgstr "プロファイルを編集"
+
+msgid "Edit this entry"
+msgstr "このエントリを編集"
+
+msgid "Enable"
+msgstr "有効にする"
+
+msgid "Enable selected process"
+msgstr "選択したプロセスを有効する"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Enter a decription for this profile"
+msgstr "このプロファイルの説明を入力します"
+
+msgid "Enter a valid name for the candidate for the task."
+msgstr "タスク候補者の有効な名前を入力します。"
+
+msgid "Enter a valid name for the initiator of the case"
+msgstr "案件の起案者の有効な名前を入力します。"
+
+msgid "Enter the comment for the subtask."
+msgstr "サブタスクのコメントを入力します。"
+
+msgid "Enter the description for this subtask"
+msgstr "このサブタスクの説明を入力します。"
+
+msgid "Enter the description of this profile"
+msgstr "このプロファイルの説明を入力します"
+
+msgid "Enter the name for this profile"
+msgstr "このプロファイルの名前を入力します"
+
+msgid "Enter the name of this profile"
+msgstr "このプロファイルの名前を入力します"
+
+msgid "Enter the title for this subtask"
+msgstr "このサブタスクのタイトルを入力します"
+
+msgid "Enter the user to do the task for"
+msgstr "タスクを行うのユーザーを入力します。"
+
+msgid "Enter the user to start the case for."
+msgstr "案件を開始するユーザーを入力します。"
+
+msgid "Enter user"
+msgstr "ユーザーを入力します"
+
+msgid "Error details"
+msgstr "エラーの詳細"
+
+msgid "Error during access control file reading."
+msgstr "アクセス制御ファイルの読み取り中にエラーが発生しました。"
+
+msgid "Error during profile import file reading."
+msgstr "プロファイル インポート ファイルの読み取り中にエラーが発生しました。"
+
+msgid "Error message"
+msgstr "エラーメッセージ"
+
+msgid "Error when creating profile"
+msgstr "プロファイル作成時のエラー"
+
+msgid "Error when deleting profile"
+msgstr "プロファイル削除時のエラー"
+
+msgid "Error when updating profile"
+msgstr "プロファイル更新時のエラー"
+
+msgid "Executed on"
+msgstr "実行された日時"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Export profiles"
+msgstr "プロファイルをエクスポート"
+
+msgid "Export selected profiles"
+msgstr "選択したプロファイルをエクスポート"
+
+msgid "Export the current Look & Feel"
+msgstr "現在のルック＆フィールをエクスポート"
+
+msgid "Export the current Look & Feel to modify it or import it to another mobile version of the Bonita Portal"
+msgstr "ルック＆フィールを変更する、あるいは Bonita ポータルの別の モバイル・バージョンにそれをインポートするためには、現在のルック＆フィールをエクスポートします。"
+
+msgid "Export the current Look & Feel to modify it or to import it to another web version of the Bonita Portal."
+msgstr "ルック＆フィールを変更する、あるいは Bonita ポータルの別の web バージョンにそれをインポートするためには、現在のルック＆フィールをエクスポートします。"
+
+msgid "Export the default Look & Feel"
+msgstr "デフォルトのルック＆フィールをエクスポート"
+
+msgid "Export the default Look & Feel to modify it and create your own Look & Feel."
+msgstr "独自のルック＆フィールを作成または変更するために、デフォルトのルック＆フィールをエクスポートします。"
+
+msgid "Failure details"
+msgstr "エラーの詳細"
+
+msgid "First name"
+msgstr "姓（英語の場合：First name）"
+
+msgid "Forms: %ok_ko%"
+msgstr "フォーム: %ok_ko%"
+
+msgid "Getting more information about the specified case"
+msgstr "指定した案件に関する詳細情報の入手"
+
+msgid "Go back to previous view"
+msgstr "以前のビューに戻る"
+
+msgid "Go to more details report view"
+msgstr "もっと詳細なレポート ビューに移動します"
+
+msgid "Groovy example page"
+msgstr "Groovy のサンプルページ"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "HTML example page"
+msgstr "HTML のサンプルページ"
+
+msgid "High"
+msgstr "高"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "ID"
+msgstr "id"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "If the problem is fixed the task will be performed\n"
+" or back to available.\n"
+msgstr "問題が解決された場合は、タスクは遂行されるか、\n"
+" または待機状態に戻ります。"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import / Export"
+msgstr "インポート/エクスポート"
+
+msgid "Import and apply a new Look & Feel"
+msgstr "新しいルック＆フィールをインポートして適用します"
+
+msgid "Import profiles"
+msgstr "プロファイルをインポート"
+
+msgid "Information on user"
+msgstr "ユーザーの情報"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Install a report"
+msgstr "レポートをインストールします。"
+
+msgid "Install a report created using the Jasper standard. The report archive (.zip file) must contain the Jasper file;optionally, properties file(s) can be added if the report is localised in different languages. \n"
+" Enter the name of the report to install.The description and the screen shot are optional but are recommended in order to give a context to the user."
+msgstr "Jasper standardを使用して作成されたレポートをインストールします。レポート アーカイブ (.zip ファイル) を Jasper ファイルを含める必要があります。レポートが別の言語でローカライズされた場合は、必要に応じて、プロパティ ファイルを追加することができます。\n"
+"インストールするレポートの名前を入力します。説明とスクリーン ショットは任意ですが、ユーザーにレポートの解説を提供するため有効ですので、その使用を推奨します。"
+
+msgid "Installed by"
+msgstr "インストールした人"
+
+msgid "Installed on"
+msgstr "インストール日"
+
+msgid "It is still assigned until you release it."
+msgstr "あなたがその作業を手放すまでアサインされたままです。"
+
+msgid "Last name"
+msgstr "名（英語の場合：Last name）"
+
+msgid "License expiration date"
+msgstr "ライセンスの有効期限"
+
+msgid "License type"
+msgstr "ライセンスの種類"
+
+msgid "Link not found"
+msgstr "リンクが見つかりません"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lowest"
+msgstr "最低"
+
+msgid "MM/dd/yyyy"
+msgstr "yyyy/MM/dd"
+
+msgid "Manage Look n Feel"
+msgstr "ルック＆フィールの管理"
+
+msgid "Members"
+msgstr "メンバー"
+
+msgid "Membership"
+msgstr "所属"
+
+msgid "Memberships"
+msgstr "所属"
+
+msgid "Menu entry name"
+msgstr "メニュー エントリ名"
+
+msgid "Menu name"
+msgstr "メニュー名"
+
+msgid "Mobile Portal"
+msgstr "モバイル ・ ポータル"
+
+msgid "Mobile Portal Look & Feel"
+msgstr "モバイル・ポータルのルック＆フィール"
+
+msgid "More"
+msgstr "詳細"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Name of the process parameter"
+msgstr "プロセス パラメータの名前"
+
+msgid "Name of the user who executed this task"
+msgstr "このタスクを最後に実行したユーザーの名前"
+
+msgid "Name of the user who install this report"
+msgstr "このレポートをインストールしたユーザーの名前"
+
+msgid "Name of your menu"
+msgstr "あなたのメニューの名前"
+
+msgid "Name of your report"
+msgstr "レポートの名前"
+
+msgid "No error message"
+msgstr "エラー メッセージなし"
+
+msgid "No new case can be started. Please, contact your administrator."
+msgstr "新しいケースを開始できません。システム管理者に問い合わせてください。"
+
+msgid "No stack trace"
+msgstr "スタック トレースなし"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Number of failed tasks"
+msgstr "失敗したタスクの数"
+
+msgid "Number of open cases"
+msgstr "オープンしている案件の数"
+
+msgid "Number of open tasks"
+msgstr "オープンしているタスクの数"
+
+msgid "Number of processes resolved"
+msgstr "解決したプロセス数"
+
+msgid "On"
+msgstr "On"
+
+msgid "Open a popup to install a report"
+msgstr "レポートをインストールするポップアップを開く"
+
+msgid "Opens a popup to create/import (a) profile(s)"
+msgstr "プロファイルの作成/インポートのためにポップアップを開きます"
+
+msgid "Opens a popup to import the profile(s) mapping with the organization"
+msgstr "組織にマッピングしているプロファイルをインポートするには、ポップアップを開きます"
+
+msgid "Opens a popup to install a process"
+msgstr "プロセスをインストールするポップアップを開きます"
+
+msgid "Organization"
+msgstr "組織"
+
+msgid "Overdue"
+msgstr "期限切れ"
+
+msgid "Parameters: %ok_ko%"
+msgstr "パラメータ： %ok_ko%"
+
+msgid "Parent Task"
+msgstr "親タスク"
+
+msgid "Pending subtasks"
+msgstr "待機中のサブタスク"
+
+msgid "Period"
+msgstr "期間"
+
+msgid "Please choose a file to import"
+msgstr "インポートするファイルを選択してください。"
+
+msgid "Please select a file first"
+msgstr "最初のファイルを選択してください。"
+
+msgid "Please select at least one page below to be added to your menu"
+msgstr "あなたのメニューに追加するには、以下の少なくとも 1 つのページを選択してください"
+
+msgid "Portal navigation"
+msgstr "ポータルのナビゲーション"
+
+msgid "Post time"
+msgstr "掲示時間"
+
+msgid "Priority"
+msgstr "優先度"
+
+msgid "Process Manager mapping"
+msgstr "プロセス管理者のマッピング"
+
+msgid "Process name"
+msgstr "プロセス名"
+
+msgid "Process version"
+msgstr "プロセスのバージョン"
+
+msgid "Processes information"
+msgstr "プロセス情報"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "Profile already exists"
+msgstr "プロファイルは既に存在します"
+
+msgid "Profile does not exists"
+msgstr "プロファイルが存在しません"
+
+msgid "Profiles"
+msgstr "プロファイル"
+
+msgid "Profiles XML file"
+msgstr "プロファイル XML ファイル"
+
+msgid "RESTORE"
+msgstr "復元"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove the page"
+msgstr "ページを削除"
+
+msgid "Removing the '%pageName%' page will also delete its parent menu '%menuName%', as a menu cannot be left empty.\n"
+"Do you still want to remove?"
+msgstr "'%pageName%' ページを削除すると、その親メニューの '%menuName%' も削除します。メニューは空のままにすることはできません。\n"
+"削除してもよろしいですか？"
+
+msgid "Replay"
+msgstr "再実行"
+
+msgid "Replay task"
+msgstr "タスクを再実行"
+
+msgid "Report archive"
+msgstr "レポート アーカイブ"
+
+msgid "Report's screenshot"
+msgstr "レポートのスクリーン ショット"
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "Request must contain p_date_from and p_date_to parameters."
+msgstr "リクエストは、 p_date_from と p_date_to のパラメータを含む必要があります。"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset selected connector(s) and replay task"
+msgstr "選択したコネクタをリセットし、タスクを再実行"
+
+msgid "Reset this navigation bar editor"
+msgstr "このナビゲーション・バーのエディタをリセットします"
+
+msgid "Resolved"
+msgstr "解決済み"
+
+msgid "Restore"
+msgstr "復元"
+
+msgid "Restore the default Look & Feel"
+msgstr "デフォルトのルック＆フィールを復元します"
+
+msgid "Restore the default Look & Feel."
+msgstr "デフォルトのルック＆フィールを復元します。"
+
+msgid "Restore the default?"
+msgstr "デフォルトを復元しますか？"
+
+msgid "Role"
+msgstr "役割"
+
+msgid "Roles"
+msgstr "役割"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save this menu modifications"
+msgstr "このメニューの変更を保存します"
+
+msgid "Save this profile modifications"
+msgstr "このプロファイルの変更を保存します"
+
+msgid "Save this value"
+msgstr "この値を保存します"
+
+msgid "Screen shot"
+msgstr "スクリーン ショット"
+
+msgid "Select a group"
+msgstr "グループを選択します"
+
+msgid "Select a group to be added to Process Manager"
+msgstr "プロセス管理者に追加するグループを選択します"
+
+msgid "Select a role"
+msgstr "役割を選択します。"
+
+msgid "Select a role to be added to Process Manager"
+msgstr "プロセス管理者に追加する役割を選択します"
+
+msgid "Select a role to be added to process manager"
+msgstr "プロセス管理者に追加する役割を選択します"
+
+msgid "Select a screen shot for this report"
+msgstr "このレポートのスクリーン ショットを選択します"
+
+msgid "Select a user"
+msgstr "ユーザーを選択します"
+
+msgid "Select a user to be added to Process Manager"
+msgstr "プロセス管理者に追加するユーザーを選択します"
+
+msgid "Select connector(s) to replay"
+msgstr "再実行するコネクタを選択します"
+
+msgid "Select connector(s) to reset before to replay"
+msgstr "再実行する前にリセットするコネクタを選択します"
+
+msgid "Select how you want to add profiles"
+msgstr "プロファイルを追加したい方法を選択します"
+
+msgid "Select the entities (users, groups, roles, memberships) who will supervise this process."
+msgstr "このプロセスを監督するエンティティ（ユーザー、グループ、役割、所属） を選択します。"
+
+msgid "Select the people for the subtask"
+msgstr "サブタスクを担当する人を選択します。"
+
+msgid "Select the people which the subtask will be assigned to"
+msgstr "サブタスクにアサインされる人を選択します"
+
+msgid "Select the priority for this user"
+msgstr "このユーザーの優先度を選択します。"
+
+msgid "Select your .zip file"
+msgstr "あなたの.zip ファイルを選択します"
+
+msgid "Session expired. Please log in again."
+msgstr "セッションが失効しました。再度ログインしてください。"
+
+msgid "Show more details about this archived case"
+msgstr "この完了済み案件についての詳細を表示します。"
+
+msgid "Show more details about this case"
+msgstr "この案件についての詳細を表示します。"
+
+msgid "Show more details about this process"
+msgstr "このプロセスについての詳細を表示します"
+
+msgid "Show more details about this report"
+msgstr "このレポートについての詳細を表示します。"
+
+msgid "Skipped"
+msgstr "スキップされた"
+
+msgid "Sorry the process parameter %appParameter% has a type which is not editable"
+msgstr "申し訳ありません。プロセス パラメータ： %appParameter% は編集可能でない型を持っています"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start for"
+msgstr "開始"
+
+msgid "Start the case for."
+msgstr "案件を開始します。"
+
+msgid "Start this process for "
+msgstr "このプロセスを開始します"
+
+msgid "Started"
+msgstr "開始済み"
+
+msgid "Started by"
+msgstr "起案者"
+
+msgid "Started on"
+msgstr "開始日時"
+
+msgid "State"
+msgstr "状態"
+
+msgid "Status of import"
+msgstr "インポートの状態"
+
+msgid "Task"
+msgstr "タスク"
+
+msgid "The Process Manager shares management of processes, cases, and tasks with the administrator for specified processes."
+msgstr "プロセス管理者は指定したプロセスの案件、およびタスクの管理をシステム管理者と共有します。"
+
+msgid "The Profile %profileName% cannot be deleted. The following application(s) are using it."
+msgstr "プロファイル： %profileName% は削除できません。次のアプリケーションは、それを使用しています。"
+
+msgid "The business data: [ %refs% ] uses Business Objects which are not defined in the current Business Data model. Deploy a compatible Business Data model before enabling the process."
+msgstr "ビジネス データ: [%refs%] は、現在ビジネス データ モデル内に定義されていないビジネス オブジェクトを使用しています。プロセスを有効にする前に互換性のあるビジネス データ モデルをデプロイします。"
+
+msgid "The date when the case was started"
+msgstr "案件の開始日時"
+
+msgid "The date when the profile was updated"
+msgstr "プロファイルが更新された日時"
+
+msgid "The date when this profile has been added"
+msgstr "このプロファイルが追加された日時"
+
+msgid "The date when this report has been installed"
+msgstr "このレポートがインストールされた日"
+
+msgid "The mobile Portal Look & Feel is specified in a .zip archive containing a set of CSS files, images, and, optionnally, fonts and Javascript."
+msgstr "モバイル・ポータルのルック＆フィールは、CSS ファイル、画像ファイル、オプションとしてフォントと Javascriptを含む.zip アーカイブで指定されます。"
+
+msgid "The parent task of this subtask"
+msgstr "このサブタスクの親タスク"
+
+msgid "The report archive is not the one expected. The expected archive is a .zip file containing a jasper file and properties file(s) if the report is localised in different languages."
+msgstr "レポートのアーカイブは、期待に沿うものではありません。望まれるアーカイブはj、asper ファイルを含む .zip ファイル、およびレポートが別の言語でローカライズされている場合はそのプロパティ ファイルです。"
+
+msgid "The report engine encountered a problem trying to display the report. Please consult the logs for more information."
+msgstr "レポート エンジンは、レポートを表示しようとして問題が発生しました。詳細についてはログを参照してください。"
+
+msgid "The report has already been installed"
+msgstr "このレポートは、既にインストールされています。"
+
+msgid "The task %taskName% has not been executed. "
+msgstr "タスク %taskName% は実行されていません。 "
+
+msgid "The user that has added this profile"
+msgstr "このプロファイルに追加したユーザー"
+
+msgid "The user that updated this profile"
+msgstr "このプロファイルを更新したユーザー"
+
+msgid "The user who started the case"
+msgstr "この案件を開始したユーザー"
+
+msgid "The version of the process that created this case"
+msgstr "この案件を作成したプロセスのバージョン"
+
+msgid "The web Portal Look & Feel is specified in a .zip archive containing a set of LESS files, CSS files, images, some HTML files, and, optionnally, fonts and Javascript."
+msgstr "Web ポータルのルック＆フィールは、LESSファイル、CSS ファイル、画像ファイル、いくつかの HTML ファイル、オプションとしてフォントと Javascriptを含む.zip アーカイブで指定されます。"
+
+msgid "This %membertype% is already added to Process Manager."
+msgstr "この %membertype% は、既にプロセス管理者に追加されています。"
+
+msgid "This example page shows the structure of the source of a custom page using a Groovy class to build the HTML content."
+msgstr "このページの例は、HTML コンテンツを構築するするために、Groovy クラスを使用した カスタム ページのソース構造を示します。"
+
+msgid "This example page shows the structure of the source of a custom page using a HTML file with Javascript."
+msgstr "このページの例は、 HTML ファイルとJavascript を使用したカスタム ページのソース構造を示します。"
+
+msgid "This field is mandatory"
+msgstr "このフィールドは必須です"
+
+msgid "This link already exists"
+msgstr "このリンクは既に存在します"
+
+msgid "This menu name already exists."
+msgstr "このメニューの名前は既に存在します"
+
+msgid "This menu will not be used by applications as they have their own navigation menu."
+msgstr "独自のナビゲーション メニューを持っていると、このメニューはアプリケーションでは使用されません。"
+
+msgid "This report displays the average time to close a case. Two figures are available: the mean and the median for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+msgstr "このレポートは案件が終了するまでにかかった平均時間を表示します。所定期間内の案件および／またはプロセスの平均値と中央値の２ つの図表が使用可能です。\n"
+"下表のリンクをクリックすることによって、Bonita ポータルにアクセスできます。\n"
+"この表示は最初の１００項目に限定されます。すべての項目を表示するには、ページの右上にある「エクスポート 」ボタンをクリックしてください。"
+
+msgid "This report displays the list of cases in each status (open or closed) for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+msgstr "このレポートは所定期間内の案件、および／またはプロセスをそれぞれの状態 （開始または終了） 毎にリスト表示します。\n"
+"下表のリンクをクリックすることによって、Bonita ポータルにアクセスできます。\n"
+"この表示は最初の１００項目に限定されます。すべての項目を表示するには、ページの右上にある「エクスポート 」ボタンをクリックしてください。"
+
+msgid "This report displays the list of human tasks in each status (open, failed or closed) for a given period and/or process.\n"
+"You can access Bonita Portal by clicking on a link in the below table.\n"
+"The display is limited to the first 100 items. To see all items, click on the EXPORT button at the top right of the page."
+msgstr "このレポートは所定期間内のヒューマン タスクおよび／またはプロセスをのそれぞれの状態 （開始、エラーまたは終了） 毎にリスト表示します。\n"
+"下表のリンクをクリックすることによって、Bonita ポータルにアクセスできます。\n"
+"この表示は最初の１００項目に限定されます。すべての項目を表示するには、ページの右上にある「エクスポート 」ボタンをクリックしてください。"
+
+msgid "This report displays the list of human tasks performed in one or more cases, for a given period, and/or process."
+msgstr "このレポートは一定期間、および/またはアプリケーションで 1 つまたは複数の案件で実行されたヒューマン タスクの一覧を表示します。"
+
+msgid "This report has already been installed."
+msgstr "このレポートは、既にインストールされています。"
+
+msgid "This subtask is assigned to %assignee%."
+msgstr "このサブタスクは %assignee% にアサインされます。"
+
+msgid "This task is already assigned to %assignee%. To do the task for a different user, you must first Unassign the task."
+msgstr "このタスクは、既に %assignee% にアサインされます。別のユーザーのタスクを実行するには、最初のタスクへのアサインを解除する必要があります。"
+
+msgid "This user was not found or this field is mandatory"
+msgstr "このユーザーが見つからならなかったか、あるいはこのフィールドは必須です。"
+
+msgid "This view contains monitoring information about processes."
+msgstr "このビューには、プロセスに関するモニタリング情報が含まれます。"
+
+msgid "This will delete the current Look & Feel."
+msgstr "これは、現在のルック＆フィールを削除します。"
+
+msgid "This will import a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+msgstr "組織へマッピングしているプロファイルを含むファイルをインポートします。 <br/>そのファイルをインポートする前に、マップした組織がポータルに既に読み込まれていなければなりません。"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "To apply a new Look & Feel, import the archive. The new Look & Feel archive must have the same structure as the default. Warning: This will delete the current Look & Feel, so before you apply the new one, we recommend that you export and keep the current Look & Feel."
+msgstr "新しいルック＆フィールを適用するには、そのアーカイブをインポートします。その新しいルック＆フィールのアーカイブはデフォルトと同じ構造を持つ必要があります。警告: 現在のルック＆フィールは削除されるので、デフォルトを復元する前に現在のルック＆フィールをエクスポートし保存することをお勧めします。"
+
+msgid "To create your own Look & Feel, export the default or current Look & Feel and modify it."
+msgstr "あなた自身のルック＆フィールを作成には、デフォルトまたは現在のルック＆フィールをエクスポートして変更します。"
+
+msgid "To do so, contact your administrator"
+msgstr "そのためには、システム管理者に問い合わせてください。"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Type of the process parameter"
+msgstr "プロセス パラメータの型"
+
+msgid "Type the new value for %appParameter%"
+msgstr "%appParameter% の新しい値を入力します。"
+
+msgid "Unable to edit connector implementation"
+msgstr "コネクタの実装を編集することはできません。"
+
+msgid "Unresolved"
+msgstr "未解決"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update a subtask"
+msgstr "サブタスクを更新します。"
+
+msgid "Update date"
+msgstr "更新日時"
+
+msgid "Update menu entry"
+msgstr "メニュー エントリを更新"
+
+msgid "Update process connector class name"
+msgstr "プロセス コネクタのクラス名を更新"
+
+msgid "Updated by"
+msgstr "更新者"
+
+msgid "Updated on"
+msgstr "更新日時"
+
+msgid "Upload a new connector implementation"
+msgstr "新しいコネクタの実装をアップロードします。"
+
+msgid "User"
+msgstr "利用者"
+
+msgid "User name"
+msgstr "ユーザー名"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Warning: This will delete the current Look & Feel, so before you restore the default, we recommend that you export and keep the current Look & Feel."
+msgstr "警告: 現在のルック＆フィールは削除されるので、デフォルトを復元する前に現在のルック＆フィールをエクスポートし保存することをお勧めします。"
+
+msgid "Web Portal"
+msgstr "Web ポータル"
+
+msgid "Web Portal Look & Feel"
+msgstr "Web ポータルのルック＆フィール"
+
+msgid "X"
+msgstr "X"
+
+msgid "You are about to erase your menu bar.\n\n\n"
+msgstr "メニュー バーを消去しようとしています。"
+
+msgid "You are about to export %itemCount% profile(s).<br/>This will create a file containing the profile mapping to the organization.<br/>Before you import it, the mapped organization must already be loaded in the Portal."
+msgstr "%itemCount% プロファイルをエクスポートしています。<br/>組織をマッピングしているプロファイルを含むファイルが作成されます。<br/>そのファイルをインポートする前に、ポータルにマップした組織がポータルに既に読み込まれていなければなりません。"
+
+msgid "You are about to export %itemCount% profile(s).<br/>When you export a profile, it includes the mapping to pages and the organization.<br/>Before you import a profile, the mapped pages and organization must already be loaded in the Portal."
+msgstr "%itemCount% プロファイルをエクスポートしています 。<br/>プロファイルをエクスポートすると、ページと組織へのマッピングが含まれます。 <br/>プロファイルをインポートする前に、マップしたページと組織がポータルに既に読み込まれていなければなりません。"
+
+msgid "case"
+msgstr "案件"
+
+msgid "case_avg_time"
+msgstr "案件平均時間"
+
+msgid "case_history"
+msgstr "案件履歴"
+
+msgid "case_list"
+msgstr "案件リスト"
+
+msgid "cases"
+msgstr "案件"
+
+msgid "from:"
+msgstr "from:"
+
+msgid "group"
+msgstr "グループ"
+
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+msgid "mm/dd/yy"
+msgstr "yy/mm/dd"
+
+msgid "profiles have been partially imported. The following items have not been mapped."
+msgstr "プロファイルは部分的にインポートされました。次の項目がマップされていません。"
+
+msgid "profiles have been successfully imported, with complete page mapping and organization mapping"
+msgstr "プロファイルは、完全なページ マッピングと組織とマッピングを伴って、正常にインポートされています。"
+
+msgid "profiles have not been imported because the definition contains an error (these profiles are not supported by this edition or 'isDefault' as been set to true)."
+msgstr "プロファイルは、定義にエラーが含まれているためインポートされていません。（これらのプロファイルが本エディションでサポートされていないか、または 'isDefault' がtrueに設定されています）"
+
+msgid "report"
+msgstr "レポート"
+
+msgid "reports"
+msgstr "レポート"
+
+msgid "role"
+msgstr "役割"
+
+msgid "task_list"
+msgstr "タスク リスト"
+
+msgid "tasks"
+msgstr "タスク"
+
+msgid "to:"
+msgstr "to:"
+
+msgid "user"
+msgstr "ユーザー"
+

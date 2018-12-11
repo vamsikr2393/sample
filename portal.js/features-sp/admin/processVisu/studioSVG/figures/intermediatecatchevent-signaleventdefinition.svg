@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+        <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+        <!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+        ]>
+<svg class="shape" version="1.1" id="StudioIntermediateCatchStartEvent-signaleventdefinition" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="33.875" height="33.875"
+	 viewBox="0 0 33.875 33.875" style="overflow:visible;enable-background:new 0 0 33.875 33.875;" xml:space="preserve">
+<rect fill="#FFFFFF" fill-opacity="0" width="33.875" height="33.875"/>
+    <g>
+        <circle transform="translate(0.31645491,0.08853282)" d="m 32.271,16.938 c 0,8.468182 -6.864818,15.333 -15.333,15.333 -8.4681824,0 -15.3330005,-6.864818 -15.3330005,-15.333 0,-8.4681824 6.8648181,-15.3330005 15.3330005,-15.3330005 8.468182,0 15.333,6.8648181 15.333,15.3330005 z"
+       style="fill:#ffffff;stroke:#2C6DA3;stroke-width:1.70000005000000010"
+       id="circle5119"
+       r="15.333"
+       cy="16.938"
+       cx="16.938" /><circle
+       transform="translate(0.31645491,0.08853282)"
+       d="m 29.438,16.938 c 0,6.903559 -5.596441,12.5 -12.5,12.5 -6.90356,0 -12.5000003,-5.596441 -12.5000003,-12.5 0,-6.90356 5.5964403,-12.5000003 12.5000003,-12.5000003 6.903559,0 12.5,5.5964403 12.5,12.5000003 z"
+       style="fill:none;stroke:#2C6DA3;stroke-width:1.70000005000000010;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle5121"
+       r="12.5"
+       cy="16.938"
+       cx="16.938" /><polygon
+       style="fill:none;stroke:#2c6da3;stroke-width:23.50673485000000085;stroke-miterlimit:4"
+       id="polygon2980"
+       transform="matrix(-0.06280754,0,0,-0.06771381,25.774852,23.180967)"
+       points="5,5 135,230 265,5 " />
+    </g></svg>

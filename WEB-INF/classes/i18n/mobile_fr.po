@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonita\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-24 05:07+0100\n"
+"PO-Revision-Date: 2018-06-04 21:44-0400\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/mobile.po\n"
+
+msgid "Above normal"
+msgstr "Haute priorité"
+
+msgid "Add a subtask"
+msgstr "Ajouter une sous tâche"
+
+msgid "App name"
+msgstr "Nom de l'app"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Archived"
+msgstr "Archivés"
+
+msgid "Archived date"
+msgstr "Date d'archive"
+
+msgid "Assign to"
+msgstr "Affecter à"
+
+msgid "Available tasks"
+msgstr "Tâches disponibles"
+
+msgid "Back"
+msgstr "Précédent"
+
+msgid "Case"
+msgstr "Cas"
+
+msgid "Choose"
+msgstr "Choisir"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Do it"
+msgstr "Faire"
+
+msgid "Done"
+msgstr "Fait"
+
+msgid "Done by"
+msgstr "Faite par"
+
+msgid "Done on"
+msgstr "Effectuées le "
+
+msgid "Due date"
+msgstr "Echéance"
+
+msgid "Executed"
+msgstr "Fait"
+
+msgid "Highest"
+msgstr "Plus haute"
+
+msgid "Home"
+msgstr "Page d'accueil"
+
+msgid "Installed by"
+msgstr "Installé par"
+
+msgid "Installed on"
+msgstr "Installé le"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "Log out"
+msgstr "Fermer la session"
+
+msgid "Lowest"
+msgstr "Plus basse"
+
+msgid "My cases"
+msgstr "Mes cas"
+
+msgid "My tasks"
+msgstr "Mes tâches"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No data"
+msgstr "Pas de donnée disponible"
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Release"
+msgstr "Liberer"
+
+msgid "Search Input"
+msgstr "Entrée de recherche"
+
+msgid "Start"
+msgstr "Démarrer"
+
+msgid "Start date"
+msgstr "Débuté le"
+
+msgid "Subtask"
+msgstr "Sous-tâche"
+
+msgid "Subtasks"
+msgstr "Sous tâches"
+
+msgid "Take"
+msgstr "Prendre"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "This service is offline for maintenance. Please try later."
+msgstr "Ce service est actuellement hors ligne pour maintenance. Veuillez essayer ultérieurement."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "To do"
+msgstr "À faire"
+
+msgid "Unable to log in. Please check your username and password."
+msgstr "Impossible de se connecter. Veuillez vérifier votre nom d'utilisateur et le mot de passe."
+
+msgid "Under normal"
+msgstr "Basse priorité"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "You are going to start a new case. No form is needed."
+msgstr "Vous allez commencer un nouveau cas. Aucun formulaire n'est nécessaire."
+

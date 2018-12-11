@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="StudioConnecteur" inkscape:version="0.48.0 r9654" sodipodi:docname="connecteur.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="43.609" height="22.686" viewBox="0 0 43.609 22.686"
+	 style="overflow:visible;enable-background:new 0 0 43.609 22.686;" xml:space="preserve">
+<sodipodi:namedview  id="namedview16" inkscape:window-width="640" inkscape:window-height="480" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:current-layer="StudioConnecteur" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" inkscape:cy="8.0083029" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="1.5857387" inkscape:cx="21.574" fit-margin-top="0" gridtolerance="10">
+	</sodipodi:namedview>
+<path id="BORDER2" inkscape:connector-curvature="0" fill="transparent" stroke="#2D6EA2" stroke-width="2" d="M28.836,16.073
+	c0,0-11,14.04-13.232-2.293C14.181,3.389,4.019,10.822,1,12.142"/>
+<path id="BORDER_STYLE2" inkscape:connector-curvature="0" fill="#2D6EA2" stroke="#2D6EA2" d="M38.276,11.721
+	c-0.197,0.204-0.521,0.208-0.725,0.01l-0.621-0.607c-0.202-0.196-0.206-0.519-0.01-0.721l4.688-4.807
+	c0.196-0.202,0.521-0.208,0.722-0.011l0.623,0.608c0.203,0.197,0.207,0.52,0.008,0.722L38.276,11.721z"/>
+<path id="BORDER_STYLE" inkscape:connector-curvature="0" fill="#2D6EA2" stroke="#2D6EA2" d="M33.068,6.782
+	c-0.198,0.202-0.521,0.206-0.725,0.009l-0.622-0.606c-0.201-0.197-0.205-0.521-0.011-0.722l4.688-4.809
+	c0.196-0.202,0.521-0.206,0.722-0.009l0.623,0.606c0.203,0.198,0.207,0.521,0.01,0.724L33.068,6.782z"/>
+<linearGradient id="BORDER_4_connecteur_" gradientUnits="userSpaceOnUse" x1="442.6306" y1="-577.2563" x2="414.1298" y2="-558.3808" gradientTransform="matrix(1 0 0 -1 -399.2676 -555.5049)">
+	<stop  offset="0" style="stop-color:#B9B9D9"/>
+	<stop  offset="1" style="stop-color:#FAFAEE"/>
+</linearGradient>
+<path id="BORDER" inkscape:connector-curvature="0" fill="url(#BORDER_4_connecteur_)" stroke="#2D6EA2" stroke-width="2" d="M29.081,2.856
+	c0,0-10.663,8.974-4.308,15.708c6.354,6.734,14.457-1.295,16.325-3.689L29.081,2.856z"/>
+</svg>

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bonita\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-24 05:07+0100\n"
+"PO-Revision-Date: 2018-06-04 21:44-0400\n"
+"Last-Translator: bonitasoft <adoption@bonitasoft.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: bonita\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/bonita-web-sp/portal/mobile.po\n"
+
+msgid "Above normal"
+msgstr "Above normal"
+
+msgid "Add a subtask"
+msgstr "Add a subtask"
+
+msgid "App name"
+msgstr "App name"
+
+msgid "Apps"
+msgstr "Apps"
+
+msgid "Archived"
+msgstr "Archived"
+
+msgid "Archived date"
+msgstr "Archived date"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Available tasks"
+msgstr "Available tasks"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Case"
+msgstr "Case"
+
+msgid "Choose"
+msgstr "Choose"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Do it"
+msgstr "Do it"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Done by"
+msgstr "Done by"
+
+msgid "Done on"
+msgstr "Done on"
+
+msgid "Due date"
+msgstr "Due date"
+
+msgid "Executed"
+msgstr "Executed"
+
+msgid "Highest"
+msgstr "Highest"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Installed by"
+msgstr "Installed by"
+
+msgid "Installed on"
+msgstr "Installed on"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Lowest"
+msgstr "Lowest"
+
+msgid "My cases"
+msgstr "My cases"
+
+msgid "My tasks"
+msgstr "My tasks"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No data"
+msgstr "No data"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Priority"
+msgstr "Priority"
+
+msgid "Release"
+msgstr "Release"
+
+msgid "Search Input"
+msgstr "Search Input"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start date"
+msgstr "Start date"
+
+msgid "Subtask"
+msgstr "Subtask"
+
+msgid "Subtasks"
+msgstr "Subtasks"
+
+msgid "Take"
+msgstr "Take"
+
+msgid "Tasks"
+msgstr "Tasks"
+
+msgid "This service is offline for maintenance. Please try later."
+msgstr "This service is offline for maintenance. Please try later."
+
+msgid "Title"
+msgstr "Title"
+
+msgid "To do"
+msgstr "To do"
+
+msgid "Unable to log in. Please check your username and password."
+msgstr "Unable to log in. Please check your username and password."
+
+msgid "Under normal"
+msgstr "Under normal"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "You are going to start a new case. No form is needed."
+msgstr "You are going to start a new case. No form is needed."
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1" id="StudioReceiveTask" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="92.333" height="46.133"
+	 viewBox="0 0 92.333 46.133" style="overflow:visible;enable-background:new 0 0 92.333 46.133;" xml:space="preserve">
+<linearGradient id="XMLID_8_ReceiveTask_" gradientUnits="userSpaceOnUse" x1="323.9282" y1="-264.3555" x2="129.9968" y2="-119.4336" gradientTransform="matrix(1 0 0 -1 -123.2021 -125.79)">
+	<stop  offset="0" style="stop-color:#B8B9DA"/>
+	<stop  offset="1" style="stop-color:#FBFBEE"/>
+</linearGradient>
+<path fill="url(#XMLID_8_ReceiveTask_)" stroke="#2C6DA3" stroke-width="2" d="M91.333,37.514c0,4.209-3.41,7.619-7.617,7.619H8.618
+	C4.411,45.133,1,41.723,1,37.514V8.617C1,4.41,4.411,1,8.618,1h75.097c4.207,0,7.617,3.41,7.617,7.617V37.514L91.333,37.514z"/>
+</svg>

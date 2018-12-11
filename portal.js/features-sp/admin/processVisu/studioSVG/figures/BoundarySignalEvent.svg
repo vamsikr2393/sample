@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.0"
+	 id="StudioBoundarySignalEvent" sodipodi:version="0.32" inkscape:export-ydpi="42.50491" inkscape:export-xdpi="42.50491" sodipodi:docname="BoundarySignalEvent.svg" inkscape:version="0.48.5 r10040" inkscape:output_extension="org.inkscape.output.svgz.inkscape" inkscape:export-filename="/home/mestab/bonita-studio/plugins/org.bonitasoft.studio.pics/icons/figures/CatchSignalEvent.png" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="33.875" height="33.875" viewBox="-288 380.125 33.875 33.875"
+	 style="overflow:visible;enable-background:new -288 380.125 33.875 33.875;" xml:space="preserve">
+	<sodipodi:namedview  id="namedview154" inkscape:window-y="207" inkscape:window-x="207" inkscape:current-layer="StudioBoundarySignalEvent" inkscape:window-height="726" inkscape:window-width="1138" inkscape:pageshadow="2" inkscape:pageopacity="0" objecttolerance="10" inkscape:window-maximized="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:cx="-10.92884" inkscape:zoom="4.9262642" showgrid="false" borderopacity="1" guidetolerance="10" gridtolerance="10" inkscape:cy="13.686606"></sodipodi:namedview>
+	<g id="layer1"></g>
+	<g>
+		<path fill="#FFFFFF" stroke="#2C6DA3" stroke-width="1.7" d="M-270.816,381.639c-8.56,0-15.5,6.94-15.5,15.5
+		s6.94,15.5,15.5,15.5s15.5-6.939,15.5-15.5C-255.316,388.578-262.254,381.639-270.816,381.639z M-270.816,409.775
+		c-6.979,0-12.636-5.657-12.636-12.636s5.657-12.636,12.636-12.636s12.636,5.657,12.636,12.636S-263.837,409.775-270.816,409.775z"
+		/>
+		<path fill="#FFFFFF" stroke="#2C6DA3" stroke-width="1.7" d="M-270.816,384.503c-6.979,0-12.636,5.657-12.636,12.636
+		s5.657,12.636,12.636,12.636s12.636-5.657,12.636-12.636S-263.837,384.503-270.816,384.503z M-279.027,403.018l8.254-15.402
+		l8.254,15.402H-279.027z"/>
+		<polygon fill="#FFFFFF" stroke="#2C6DA3" stroke-width="1.7" points="-279.027,403.018 -262.52,403.018 -270.773,387.617"/>
+	</g>
+</svg>

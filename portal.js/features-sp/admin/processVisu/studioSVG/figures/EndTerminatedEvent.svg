@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1"
+	 id="StudioEndTerminatedEvent" inkscape:version="0.48.0 r9654" sodipodi:docname="EndTerminatedEvent.svgz" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="33.367" height="33.367" viewBox="0 0 33.367 33.367"
+	 style="overflow:visible;enable-background:new 0 0 33.367 33.367;" xml:space="preserve">
+	<sodipodi:namedview  id="namedview12" inkscape:window-width="640" inkscape:window-height="480" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:current-layer="Calque_1" objecttolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" inkscape:cy="16.963007" showgrid="false" bordercolor="#666666" borderopacity="1" inkscape:zoom="3.1714775" inkscape:cx="15.884005" fit-margin-top="0" gridtolerance="10"></sodipodi:namedview>
+	<linearGradient id="circle8_4_" gradientUnits="userSpaceOnUse" x1="430.896" y1="-569.5835" x2="412.1518" y2="-549.7314" gradientTransform="matrix(1 0 0 -1 -404.958 -543.0986)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#F9D0C6"/>
+	</linearGradient>
+	<circle id="circle8" sodipodi:rx="15.333" sodipodi:cx="298.439" sodipodi:ry="15.333" sodipodi:cy="421.22501" fill="url(#circle8_4_)" stroke="#8A151A" stroke-width="2.7" cx="16.683" cy="16.683" r="15.333"></circle>
+	<circle id="circle10" sodipodi:rx="10.495" sodipodi:cx="298.43799" sodipodi:ry="10.495" sodipodi:cy="421.22501" fill="#8A151A" cx="16.682" cy="16.683" r="10.495"></circle>
+</svg>

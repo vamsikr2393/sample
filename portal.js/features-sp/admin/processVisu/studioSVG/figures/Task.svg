@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg class="shape" version="1.1" id="StudioTask" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="91.953" height="45.932"
+	 viewBox="0 0 91.953 45.932" style="overflow:visible;enable-background:new 0 0 91.953 45.932;" xml:space="preserve">
+<g>
+
+		<linearGradient id="XMLID_4_Task_" gradientUnits="userSpaceOnUse" x1="323.0308" y1="-263.929" x2="129.9854" y2="-119.6691" gradientTransform="matrix(1 0 0 -1 -123.2021 -125.9907)">
+		<stop  offset="0" style="stop-color:#B8B9DA"/>
+		<stop  offset="1" style="stop-color:#FBFBEE"/>
+	</linearGradient>
+	<path fill="url(#XMLID_4_Task_)" stroke="#2C6DA3" stroke-width="2" d="M90.953,37.314c0,4.208-3.41,7.618-7.617,7.618H8.618
+		C4.411,44.932,1,41.522,1,37.314V8.618C1,4.411,4.411,1,8.618,1h74.715c4.207,0,7.617,3.411,7.617,7.618v28.695H90.953z"/>
+	<g>
+		<path fill="#9CB9CC" d="M14.463,16.77c0-2.76-2.238-4.998-4.998-4.998c-2.76,0-4.998,2.238-4.998,4.998H14.463z"/>
+		<path fill="#2C6DA3" d="M4.004,17.232V16.77c0-3.016,2.443-5.46,5.461-5.46l0,0c3.016,0,5.459,2.445,5.459,5.46l0,0v0.462
+			H4.004L4.004,17.232z M14.463,16.77v-0.463V16.77L14.463,16.77z M13.975,16.307c-0.236-2.287-2.162-4.067-4.51-4.072l0,0
+			c-2.35,0.005-4.275,1.786-4.512,4.072l0,0H13.975L13.975,16.307z"/>
+	</g>
+	<g>
+		<circle fill="#DAE2F1" cx="9.465" cy="8.37" r="3.934"/>
+		<path fill="#2C6DA3" d="M5.067,8.37c0.002-2.43,1.969-4.397,4.398-4.397l0,0c2.428,0,4.396,1.968,4.396,4.397l0,0
+			c0,2.429-1.969,4.396-4.396,4.396l0,0C7.036,12.767,5.069,10.799,5.067,8.37L5.067,8.37z M5.993,8.37
+			c0.004,1.917,1.555,3.468,3.473,3.472l0,0c1.917-0.003,3.469-1.555,3.471-3.472l0,0c-0.002-1.917-1.554-3.469-3.471-3.473l0,0
+			C7.547,4.902,5.997,6.453,5.993,8.37L5.993,8.37z"/>
+	</g>
+</g>
+</svg>
